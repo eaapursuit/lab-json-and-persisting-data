@@ -1,0 +1,4748 @@
+[
+   {
+      "itemId": "bWIB2mcdp0U13vU9brav4",
+      "carMake": "Fiat",
+      "carModel": "Element",
+      "carYear": 1985,
+      "previousOwner": true
+   },
+   {
+      "itemId": "blOHG12aq-H_Bumy-76iz",
+      "carMake": "Toyota",
+      "carModel": "F-150",
+      "carYear": 1991,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Hm9ZB0bt_QSjyguCFMvww",
+      "carMake": "Jeep",
+      "carModel": "1",
+      "carYear": 1982,
+      "previousOwner": true
+   },
+   {
+      "itemId": "MLxDpvvxW7knzvHh8FnfU",
+      "carMake": "Jaguar",
+      "carModel": "Corvette",
+      "carYear": 1977,
+      "previousOwner": true
+   },
+   {
+      "itemId": "l-2oyk_Ci-bekl0EotG1s",
+      "carMake": "Smart",
+      "carModel": "Durango",
+      "carYear": 1992,
+      "previousOwner": true
+   },
+   {
+      "itemId": "7W9w1uoqUukHH3f3I9hOU",
+      "carMake": "Tesla",
+      "carModel": "2",
+      "carYear": 2016,
+      "previousOwner": false
+   },
+   {
+      "itemId": "TIywAONUYCXVYRu8Bz6B2",
+      "carMake": "Hyundai",
+      "carModel": "Model S",
+      "carYear": 1998,
+      "previousOwner": false
+   },
+   {
+      "itemId": "D-DzhOCmN-lWzq7Ug72Ak",
+      "carMake": "Porsche",
+      "carModel": "Prius",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "yXfIDfwnTB1B5qrMpZyzO",
+      "carMake": "Toyota",
+      "carModel": "Expedition",
+      "carYear": 2004,
+      "previousOwner": true
+   },
+   {
+      "itemId": "w1_3j408191rQUr-ZgfsL",
+      "carMake": "Mercedes Benz",
+      "carModel": "Grand Cherokee",
+      "carYear": 1995,
+      "previousOwner": true
+   },
+   {
+      "itemId": "EfTAd2AAyo7X5khJPklYw",
+      "carMake": "Porsche",
+      "carModel": "XTS",
+      "carYear": 1991,
+      "previousOwner": true
+   },
+   {
+      "itemId": "cyM8oCyVoPaIN9bFawcvF",
+      "carMake": "Mini",
+      "carModel": "Jetta",
+      "carYear": 1999,
+      "previousOwner": false
+   },
+   {
+      "itemId": "UOPyZQYdfC0D5KnkWFSk5",
+      "carMake": "Lamborghini",
+      "carModel": "ATS",
+      "carYear": 1999,
+      "previousOwner": true
+   },
+   {
+      "itemId": "LaPq9jqlcQitKMTwXUYWt",
+      "carMake": "Porsche",
+      "carModel": "Mercielago",
+      "carYear": 1971,
+      "previousOwner": false
+   },
+   {
+      "itemId": "qvu9-fTaS17maRKSR3xFj",
+      "carMake": "Toyota",
+      "carModel": "V90",
+      "carYear": 1978,
+      "previousOwner": false
+   },
+   {
+      "itemId": "xn_S3HSMLE2yanEfb_tx5",
+      "carMake": "Chrysler",
+      "carModel": "PT Cruiser",
+      "carYear": 2007,
+      "previousOwner": false
+   },
+   {
+      "itemId": "YDRdyW5Z9VZW8XwlLVczp",
+      "carMake": "Volkswagen",
+      "carModel": "2",
+      "carYear": 2015,
+      "previousOwner": false
+   },
+   {
+      "itemId": "YvuGRd-wpx0ika4GCCiZ6",
+      "carMake": "Tesla",
+      "carModel": "Altima",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "FikOQaq12Po5iPSpqi1Ou",
+      "carMake": "Smart",
+      "carModel": "CTS",
+      "carYear": 1994,
+      "previousOwner": false
+   },
+   {
+      "itemId": "eeL0GjhCVFPnYpN1GQ9IC",
+      "carMake": "Polestar",
+      "carModel": "Sentra",
+      "carYear": 1984,
+      "previousOwner": true
+   },
+   {
+      "itemId": "KOhMtVZY1GXj_c7ZcHBGY",
+      "carMake": "Chevrolet",
+      "carModel": "Expedition",
+      "carYear": 1980,
+      "previousOwner": true
+   },
+   {
+      "itemId": "z58yKx_Y365-gpXzCQ8I9",
+      "carMake": "Ferrari",
+      "carModel": "Wrangler",
+      "carYear": 2009,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Wnd0yzohxCES02rs3kqVJ",
+      "carMake": "Kia",
+      "carModel": "Sentra",
+      "carYear": 1976,
+      "previousOwner": false
+   },
+   {
+      "itemId": "mR1f5UaA6kH0f0s3kaBNw",
+      "carMake": "BMW",
+      "carModel": "PT Cruiser",
+      "carYear": 1970,
+      "previousOwner": false
+   },
+   {
+      "itemId": "A4iEkgyzdfyh_x6GIoj7p",
+      "carMake": "Mini",
+      "carModel": "Explorer",
+      "carYear": 1972,
+      "previousOwner": true
+   },
+   {
+      "itemId": "PKTZE9-js-Ls0GOmUWyya",
+      "carMake": "Maserati",
+      "carModel": "XTS",
+      "carYear": 1980,
+      "previousOwner": true
+   },
+   {
+      "itemId": "oC4ugf0DyV8MtHSkdc5pp",
+      "carMake": "Volvo",
+      "carModel": "Explorer",
+      "carYear": 1975,
+      "previousOwner": true
+   },
+   {
+      "itemId": "7tiGDFeJy042CMmgEpcGJ",
+      "carMake": "Lamborghini",
+      "carModel": "Taurus",
+      "carYear": 2020,
+      "previousOwner": false
+   },
+   {
+      "itemId": "YA4yeRKoMA00dbqJeWWMX",
+      "carMake": "Ford",
+      "carModel": "El Camino",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "hZ5xogI_QyjoCC01SI0Sk",
+      "carMake": "Jaguar",
+      "carModel": "Model T",
+      "carYear": 2002,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Nm7Elk9JPVJitqHhPFRKo",
+      "carMake": "Honda",
+      "carModel": "ATS",
+      "carYear": 1979,
+      "previousOwner": false
+   },
+   {
+      "itemId": "3oVgEcdb326v3oId4dnad",
+      "carMake": "Bugatti",
+      "carModel": "Element",
+      "carYear": 1985,
+      "previousOwner": false
+   },
+   {
+      "itemId": "SD7ML3FlFi8EQqS8PiQHh",
+      "carMake": "BMW",
+      "carModel": "ATS",
+      "carYear": 2002,
+      "previousOwner": true
+   },
+   {
+      "itemId": "h69fOjdHhVtIR56SNz42G",
+      "carMake": "Smart",
+      "carModel": "XC90",
+      "carYear": 1970,
+      "previousOwner": false
+   },
+   {
+      "itemId": "d3woUusdyOKBgGv8nDt05",
+      "carMake": "Smart",
+      "carModel": "Expedition",
+      "carYear": 1988,
+      "previousOwner": false
+   },
+   {
+      "itemId": "WI6P9tte056G2aJenTrIx",
+      "carMake": "Jaguar",
+      "carModel": "Ranchero",
+      "carYear": 2022,
+      "previousOwner": false
+   },
+   {
+      "itemId": "BXF_d27nbzLr0meiYdBO0",
+      "carMake": "Polestar",
+      "carModel": "Impala",
+      "carYear": 2011,
+      "previousOwner": true
+   },
+   {
+      "itemId": "5B8RMxIOlDaA0P3ngDMEW",
+      "carMake": "Jaguar",
+      "carModel": "Escalade",
+      "carYear": 1973,
+      "previousOwner": false
+   },
+   {
+      "itemId": "W7mTn_0CG41OV3RNXwXSU",
+      "carMake": "Mini",
+      "carModel": "CTS",
+      "carYear": 1978,
+      "previousOwner": false
+   },
+   {
+      "itemId": "eBrZRvzoiJpol5oIADTMx",
+      "carMake": "Jaguar",
+      "carModel": "Mustang",
+      "carYear": 1995,
+      "previousOwner": true
+   },
+   {
+      "itemId": "APENV3e0X7QLf3elKwRat",
+      "carMake": "Volkswagen",
+      "carModel": "Escalade",
+      "carYear": 1981,
+      "previousOwner": true
+   },
+   {
+      "itemId": "S9otXoZvdiDhWg2lqtQcr",
+      "carMake": "Kia",
+      "carModel": "Cruze",
+      "carYear": 1983,
+      "previousOwner": true
+   },
+   {
+      "itemId": "uSlwvnYkMUiGeDeLzNTEb",
+      "carMake": "Audi",
+      "carModel": "Colorado",
+      "carYear": 2000,
+      "previousOwner": false
+   },
+   {
+      "itemId": "B8dQ9d7tlI5Fl11LPYg-w",
+      "carMake": "Bugatti",
+      "carModel": "Civic",
+      "carYear": 2009,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Y3BlT4RHVCixCiSN7IGQM",
+      "carMake": "Bugatti",
+      "carModel": "Golf",
+      "carYear": 1997,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Ai8dKULOm2CJol4siMFVa",
+      "carMake": "Jeep",
+      "carModel": "Camaro",
+      "carYear": 1997,
+      "previousOwner": false
+   },
+   {
+      "itemId": "MhIVzfgEYEVZnJPkGuk7_",
+      "carMake": "Mazda",
+      "carModel": "Sentra",
+      "carYear": 2011,
+      "previousOwner": true
+   },
+   {
+      "itemId": "d4Cx-TZdwGACcVQP3Xr0k",
+      "carMake": "Hyundai",
+      "carModel": "Focus",
+      "carYear": 2004,
+      "previousOwner": false
+   },
+   {
+      "itemId": "D2YeZqHvt01vrZIYOcQLq",
+      "carMake": "Mazda",
+      "carModel": "Taurus",
+      "carYear": 2017,
+      "previousOwner": true
+   },
+   {
+      "itemId": "bkV9KBG5KSpq7H0T2rIm2",
+      "carMake": "Aston Martin",
+      "carModel": "El Camino",
+      "carYear": 2010,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Kpc6XTvkMjuGfhqjZehIk",
+      "carMake": "Smart",
+      "carModel": "ATS",
+      "carYear": 2008,
+      "previousOwner": false
+   },
+   {
+      "itemId": "mVdUDFLAUkBk_MtqTv7gc",
+      "carMake": "Volvo",
+      "carModel": "Fiesta",
+      "carYear": 1991,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Naq2hl8_2f2LShYWtP_VY",
+      "carMake": "Mazda",
+      "carModel": "Taurus",
+      "carYear": 1996,
+      "previousOwner": false
+   },
+   {
+      "itemId": "rlkXsmE4rFUvMlQEULLuz",
+      "carMake": "Smart",
+      "carModel": "Aventador",
+      "carYear": 1970,
+      "previousOwner": true
+   },
+   {
+      "itemId": "gIooF67fRRyE2stxJM1wg",
+      "carMake": "Ferrari",
+      "carModel": "Impala",
+      "carYear": 2019,
+      "previousOwner": true
+   },
+   {
+      "itemId": "x_6Qx8t0hBLvoB9mK27ll",
+      "carMake": "Jaguar",
+      "carModel": "XTS",
+      "carYear": 2003,
+      "previousOwner": true
+   },
+   {
+      "itemId": "s2puOzStaTmZysr_R9yzy",
+      "carMake": "Chevrolet",
+      "carModel": "2",
+      "carYear": 1981,
+      "previousOwner": true
+   },
+   {
+      "itemId": "QRRsYZSJskuFc9aqBKy0p",
+      "carMake": "Maserati",
+      "carModel": "Alpine",
+      "carYear": 2004,
+      "previousOwner": false
+   },
+   {
+      "itemId": "TkNaujJx_aAv6msSmGjm9",
+      "carMake": "Lamborghini",
+      "carModel": "Golf",
+      "carYear": 1992,
+      "previousOwner": false
+   },
+   {
+      "itemId": "rDANclUpSyDjjHV_vxLlI",
+      "carMake": "Ford",
+      "carModel": "Charger",
+      "carYear": 1980,
+      "previousOwner": false
+   },
+   {
+      "itemId": "ZipTOU-w8P4-j1gyTvWZ1",
+      "carMake": "Tesla",
+      "carModel": "Grand Caravan",
+      "carYear": 2005,
+      "previousOwner": false
+   },
+   {
+      "itemId": "zfQaLxOw30sFChXWWyUeh",
+      "carMake": "Fiat",
+      "carModel": "Durango",
+      "carYear": 2023,
+      "previousOwner": false
+   },
+   {
+      "itemId": "_mjqQEpFBaH9nrvYmNePJ",
+      "carMake": "Porsche",
+      "carModel": "Challenger",
+      "carYear": 1987,
+      "previousOwner": true
+   },
+   {
+      "itemId": "ckLNsGy9xxTvgvWYViGcM",
+      "carMake": "Polestar",
+      "carModel": "Fortwo",
+      "carYear": 1980,
+      "previousOwner": false
+   },
+   {
+      "itemId": "lFofQE2r7jzflYQMyU86s",
+      "carMake": "Ferrari",
+      "carModel": "Beetle",
+      "carYear": 1970,
+      "previousOwner": true
+   },
+   {
+      "itemId": "e6x6TjumTHs8H_G2avF42",
+      "carMake": "Audi",
+      "carModel": "Model T",
+      "carYear": 1994,
+      "previousOwner": true
+   },
+   {
+      "itemId": "ve4Rg8jQKIHSK3i32Ov3x",
+      "carMake": "Chrysler",
+      "carModel": "Charger",
+      "carYear": 1975,
+      "previousOwner": false
+   },
+   {
+      "itemId": "_9LbXxrOGJidIwXORv9Tk",
+      "carMake": "BMW",
+      "carModel": "XTS",
+      "carYear": 1973,
+      "previousOwner": true
+   },
+   {
+      "itemId": "OE5-tUSTCbUiLL6pt4-CP",
+      "carMake": "Porsche",
+      "carModel": "Impala",
+      "carYear": 2005,
+      "previousOwner": false
+   },
+   {
+      "itemId": "WTEv7tj8EaTHsqSRofEbp",
+      "carMake": "Nissan",
+      "carModel": "Model Y",
+      "carYear": 2008,
+      "previousOwner": true
+   },
+   {
+      "itemId": "R71UgW7qj9aBQ_8e8-Ur2",
+      "carMake": "Cadillac",
+      "carModel": "Golf",
+      "carYear": 1986,
+      "previousOwner": false
+   },
+   {
+      "itemId": "h6xRm7EIToKsEWadPUsQS",
+      "carMake": "Toyota",
+      "carModel": "Alpine",
+      "carYear": 2020,
+      "previousOwner": true
+   },
+   {
+      "itemId": "sfSRJ5aU4_RrfpFc9_dXJ",
+      "carMake": "Chrysler",
+      "carModel": "Sentra",
+      "carYear": 1996,
+      "previousOwner": true
+   },
+   {
+      "itemId": "A_UsNKF8ueO3ZvHFNr3Mt",
+      "carMake": "Aston Martin",
+      "carModel": "Model T",
+      "carYear": 1992,
+      "previousOwner": true
+   },
+   {
+      "itemId": "GaH1btWueX9XsOPY04Bfs",
+      "carMake": "Land Rover",
+      "carModel": "LeBaron",
+      "carYear": 2020,
+      "previousOwner": false
+   },
+   {
+      "itemId": "YN-zFNd77wRgT96M2E2YH",
+      "carMake": "Ferrari",
+      "carModel": "Mercielago",
+      "carYear": 1991,
+      "previousOwner": false
+   },
+   {
+      "itemId": "JTz0GxIS74xhc4ITIQIuM",
+      "carMake": "Mercedes Benz",
+      "carModel": "Charger",
+      "carYear": 1994,
+      "previousOwner": true
+   },
+   {
+      "itemId": "KLVDyCAShvCCb4WDYEH3w",
+      "carMake": "Mercedes Benz",
+      "carModel": "Model X",
+      "carYear": 1978,
+      "previousOwner": false
+   },
+   {
+      "itemId": "gvmnLXD9x824HaEgxgxDg",
+      "carMake": "Cadillac",
+      "carModel": "CX-9",
+      "carYear": 1978,
+      "previousOwner": true
+   },
+   {
+      "itemId": "So14CTYOxdzeXS8VgOF7G",
+      "carMake": "Smart",
+      "carModel": "Altima",
+      "carYear": 1981,
+      "previousOwner": true
+   },
+   {
+      "itemId": "POHe2S0_4O1hQ5_dFwA9-",
+      "carMake": "Lamborghini",
+      "carModel": "Escalade",
+      "carYear": 2017,
+      "previousOwner": false
+   },
+   {
+      "itemId": "55UTACWYCOTpsTcX92guk",
+      "carMake": "Hyundai",
+      "carModel": "Escalade",
+      "carYear": 2012,
+      "previousOwner": false
+   },
+   {
+      "itemId": "09hd6QD4awiJS6lw7NqqG",
+      "carMake": "Nissan",
+      "carModel": "Taurus",
+      "carYear": 1983,
+      "previousOwner": false
+   },
+   {
+      "itemId": "HyQrNxiIooMDdLiOnKAnK",
+      "carMake": "Honda",
+      "carModel": "1",
+      "carYear": 1978,
+      "previousOwner": false
+   },
+   {
+      "itemId": "jqRvmv4E_YD2FAhVAuawj",
+      "carMake": "Audi",
+      "carModel": "Element",
+      "carYear": 1987,
+      "previousOwner": false
+   },
+   {
+      "itemId": "ACreC4ANX2x-sSMoU3jHo",
+      "carMake": "Aston Martin",
+      "carModel": "Escalade",
+      "carYear": 1997,
+      "previousOwner": true
+   },
+   {
+      "itemId": "LYxqYepUjy3lB51w3faWN",
+      "carMake": "Kia",
+      "carModel": "CX-9",
+      "carYear": 2012,
+      "previousOwner": false
+   },
+   {
+      "itemId": "nPfb_B9_z12ef-Ujtcpe1",
+      "carMake": "Tesla",
+      "carModel": "Cruze",
+      "carYear": 1987,
+      "previousOwner": true
+   },
+   {
+      "itemId": "K93NdJpUJLLNG4RlRm3Ok",
+      "carMake": "Jeep",
+      "carModel": "Model 3",
+      "carYear": 1993,
+      "previousOwner": true
+   },
+   {
+      "itemId": "vIOX0GUHBQ2FQ56YBn0DP",
+      "carMake": "Mazda",
+      "carModel": "Taurus",
+      "carYear": 2022,
+      "previousOwner": false
+   },
+   {
+      "itemId": "a8e44B0MjDF0yWIxcqh_E",
+      "carMake": "Volvo",
+      "carModel": "2",
+      "carYear": 2012,
+      "previousOwner": true
+   },
+   {
+      "itemId": "LMkHudv_1HNuJdbEOCIP8",
+      "carMake": "Mini",
+      "carModel": "PT Cruiser",
+      "carYear": 2019,
+      "previousOwner": false
+   },
+   {
+      "itemId": "G06AH-dXT5x6nVOG-r6Po",
+      "carMake": "Toyota",
+      "carModel": "A8",
+      "carYear": 1984,
+      "previousOwner": true
+   },
+   {
+      "itemId": "CkoUFZVC_joBd0T8i1h41",
+      "carMake": "BMW",
+      "carModel": "Golf",
+      "carYear": 1991,
+      "previousOwner": false
+   },
+   {
+      "itemId": "OtlX_mqQ1QDsdeeKXL47e",
+      "carMake": "Chrysler",
+      "carModel": "Model 3",
+      "carYear": 2009,
+      "previousOwner": false
+   },
+   {
+      "itemId": "L2XvHrVrNYCs-BgOgDM7H",
+      "carMake": "Hyundai",
+      "carModel": "Durango",
+      "carYear": 1975,
+      "previousOwner": true
+   },
+   {
+      "itemId": "HeVdPUmBgQPsLkqArB8ha",
+      "carMake": "Smart",
+      "carModel": "Accord",
+      "carYear": 2007,
+      "previousOwner": true
+   },
+   {
+      "itemId": "YSfX_7xWq_snQEGrHaCXG",
+      "carMake": "Porsche",
+      "carModel": "Escalade",
+      "carYear": 2016,
+      "previousOwner": false
+   },
+   {
+      "itemId": "OeMjYFYWJPqDyf7cdH9c5",
+      "carMake": "Volvo",
+      "carModel": "Accord",
+      "carYear": 1980,
+      "previousOwner": false
+   },
+   {
+      "itemId": "bwD8ZhqeiTX7rHo1vI4uB",
+      "carMake": "Polestar",
+      "carModel": "Aventador",
+      "carYear": 1992,
+      "previousOwner": true
+   },
+   {
+      "itemId": "fqHuZFZ3nUdjoGTzz4CaK",
+      "carMake": "Volvo",
+      "carModel": "Jetta",
+      "carYear": 2015,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Tf1oeKiornubxOeWpwZ9E",
+      "carMake": "Bugatti",
+      "carModel": "Ranchero",
+      "carYear": 2012,
+      "previousOwner": false
+   },
+   {
+      "itemId": "2X86JePWS95wgh6zyP0pA",
+      "carMake": "Mercedes Benz",
+      "carModel": "Silverado",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "wSW13g4kDesJYhOUEAQXH",
+      "carMake": "Mazda",
+      "carModel": "CTS",
+      "carYear": 2006,
+      "previousOwner": false
+   },
+   {
+      "itemId": "23ivjXJr61EvIu58rbiOh",
+      "carMake": "Smart",
+      "carModel": "Model S",
+      "carYear": 1981,
+      "previousOwner": true
+   },
+   {
+      "itemId": "5t4n7bErjP6WE_s1_9FNC",
+      "carMake": "Cadillac",
+      "carModel": "Silverado",
+      "carYear": 2015,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Ah-m9M4RqZXyAdYa41HO_",
+      "carMake": "Chevrolet",
+      "carModel": "A8",
+      "carYear": 2006,
+      "previousOwner": false
+   },
+   {
+      "itemId": "ODef9g4ueNEn81xbF05Wx",
+      "carMake": "BMW",
+      "carModel": "Focus",
+      "carYear": 2023,
+      "previousOwner": true
+   },
+   {
+      "itemId": "BYmUCPIbYsvV6HCwZGPh4",
+      "carMake": "Ford",
+      "carModel": "Beetle",
+      "carYear": 1980,
+      "previousOwner": true
+   },
+   {
+      "itemId": "y1kVrvYECdgV33u3XJvPh",
+      "carMake": "Porsche",
+      "carModel": "Roadster",
+      "carYear": 1999,
+      "previousOwner": true
+   },
+   {
+      "itemId": "ByDPhtchNOM8sFjg37Tmb",
+      "carMake": "Aston Martin",
+      "carModel": "Model S",
+      "carYear": 2019,
+      "previousOwner": false
+   },
+   {
+      "itemId": "EnM7weWuqvym3C-c8vEch",
+      "carMake": "Volvo",
+      "carModel": "Durango",
+      "carYear": 1977,
+      "previousOwner": false
+   },
+   {
+      "itemId": "BTMGP8SHR3mpcHaWm4Hfc",
+      "carMake": "Ferrari",
+      "carModel": "Altima",
+      "carYear": 1982,
+      "previousOwner": true
+   },
+   {
+      "itemId": "yL0t2a51PaD3g4u_bbLY0",
+      "carMake": "Kia",
+      "carModel": "Malibu",
+      "carYear": 1987,
+      "previousOwner": false
+   },
+   {
+      "itemId": "57aJZb8wU9VVaSdx-wzAT",
+      "carMake": "Hyundai",
+      "carModel": "Spyder",
+      "carYear": 2004,
+      "previousOwner": false
+   },
+   {
+      "itemId": "XwHTnGKM0NckHJfguORTJ",
+      "carMake": "Mercedes Benz",
+      "carModel": "LeBaron",
+      "carYear": 2011,
+      "previousOwner": true
+   },
+   {
+      "itemId": "MqaSZ-l-YhhTYWTrPer_w",
+      "carMake": "Lamborghini",
+      "carModel": "Challenger",
+      "carYear": 1979,
+      "previousOwner": false
+   },
+   {
+      "itemId": "douWwq1LcvWvCrO2s_Ov4",
+      "carMake": "Porsche",
+      "carModel": "Element",
+      "carYear": 1978,
+      "previousOwner": true
+   },
+   {
+      "itemId": "JYl12ihJv33iclPudxJRI",
+      "carMake": "Rolls Royce",
+      "carModel": "Mustang",
+      "carYear": 1975,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Z8CYv7aeEfhBqxwEvZKyL",
+      "carMake": "Cadillac",
+      "carModel": "Countach",
+      "carYear": 1975,
+      "previousOwner": false
+   },
+   {
+      "itemId": "IFBMH331p20yTNaocphbq",
+      "carMake": "Bentley",
+      "carModel": "Golf",
+      "carYear": 1983,
+      "previousOwner": false
+   },
+   {
+      "itemId": "UWtbi2z2KaqRaMrAOtLC7",
+      "carMake": "Aston Martin",
+      "carModel": "V90",
+      "carYear": 1995,
+      "previousOwner": true
+   },
+   {
+      "itemId": "26HvMru8S9g4xc6D5HKjI",
+      "carMake": "Aston Martin",
+      "carModel": "Spyder",
+      "carYear": 1993,
+      "previousOwner": true
+   },
+   {
+      "itemId": "mYFzfWGSp8inURlfWuFMS",
+      "carMake": "Volkswagen",
+      "carModel": "Corvette",
+      "carYear": 2010,
+      "previousOwner": true
+   },
+   {
+      "itemId": "ZBm57IxWToxVST_OtCdP1",
+      "carMake": "Porsche",
+      "carModel": "Ranchero",
+      "carYear": 2005,
+      "previousOwner": false
+   },
+   {
+      "itemId": "YgWeWssAG_0RpqKCAd_ly",
+      "carMake": "Audi",
+      "carModel": "Mercielago",
+      "carYear": 2010,
+      "previousOwner": false
+   },
+   {
+      "itemId": "HxSFgH6Wj8I3xREO6DPgM",
+      "carMake": "BMW",
+      "carModel": "Grand Caravan",
+      "carYear": 1972,
+      "previousOwner": true
+   },
+   {
+      "itemId": "h6QTwHppLdyn5ECuMVe4P",
+      "carMake": "Bugatti",
+      "carModel": "Corvette",
+      "carYear": 2003,
+      "previousOwner": true
+   },
+   {
+      "itemId": "4Nlk680xGhpMC55vgJTVo",
+      "carMake": "BMW",
+      "carModel": "Mercielago",
+      "carYear": 2017,
+      "previousOwner": true
+   },
+   {
+      "itemId": "3-9vfqy2H4ipjD1LOJ9Y_",
+      "carMake": "Volkswagen",
+      "carModel": "XC90",
+      "carYear": 2007,
+      "previousOwner": false
+   },
+   {
+      "itemId": "nwomD8H611qfssiKDo0Wt",
+      "carMake": "Bugatti",
+      "carModel": "Taurus",
+      "carYear": 1979,
+      "previousOwner": false
+   },
+   {
+      "itemId": "TN0oQjiAMcmj8YY3cl3L1",
+      "carMake": "Volvo",
+      "carModel": "Jetta",
+      "carYear": 1987,
+      "previousOwner": false
+   },
+   {
+      "itemId": "vS5eCqWkurGDXG_v4VgSk",
+      "carMake": "Mercedes Benz",
+      "carModel": "ATS",
+      "carYear": 2003,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Xd2S5pLrTNd3eEYUQjByf",
+      "carMake": "Polestar",
+      "carModel": "Malibu",
+      "carYear": 2023,
+      "previousOwner": true
+   },
+   {
+      "itemId": "m8xdnq8lOYstSSsbh21Nm",
+      "carMake": "Fiat",
+      "carModel": "Model S",
+      "carYear": 1970,
+      "previousOwner": true
+   },
+   {
+      "itemId": "qyOGguUfejkiqLR2KHZZj",
+      "carMake": "Cadillac",
+      "carModel": "Taurus",
+      "carYear": 1994,
+      "previousOwner": false
+   },
+   {
+      "itemId": "s1UHUOnwQn0pQiSGPwi1g",
+      "carMake": "Mini",
+      "carModel": "Beetle",
+      "carYear": 1982,
+      "previousOwner": true
+   },
+   {
+      "itemId": "uOzmoE1VHctBQ6qoA6XOk",
+      "carMake": "Nissan",
+      "carModel": "Fiesta",
+      "carYear": 1993,
+      "previousOwner": false
+   },
+   {
+      "itemId": "0bGlev2Ax0HHlpw0P5Q_1",
+      "carMake": "Honda",
+      "carModel": "Alpine",
+      "carYear": 1987,
+      "previousOwner": true
+   },
+   {
+      "itemId": "6up4j5Ycm9ys2c3oqANqH",
+      "carMake": "Land Rover",
+      "carModel": "1",
+      "carYear": 2016,
+      "previousOwner": false
+   },
+   {
+      "itemId": "UFVe2NyUoqXMDsakOwsst",
+      "carMake": "Land Rover",
+      "carModel": "ATS",
+      "carYear": 1971,
+      "previousOwner": false
+   },
+   {
+      "itemId": "DcdZk4IT8R1Wue1HHVbDp",
+      "carMake": "Mazda",
+      "carModel": "Countach",
+      "carYear": 1997,
+      "previousOwner": true
+   },
+   {
+      "itemId": "dxzTZuWh3RuAb2MArFvs1",
+      "carMake": "Mazda",
+      "carModel": "Jetta",
+      "carYear": 1979,
+      "previousOwner": true
+   },
+   {
+      "itemId": "a2Kmv4p9Iadx2wGq9NnLo",
+      "carMake": "Smart",
+      "carModel": "Accord",
+      "carYear": 2021,
+      "previousOwner": true
+   },
+   {
+      "itemId": "YgLtebb_-64PV02c4cPIw",
+      "carMake": "Jeep",
+      "carModel": "Focus",
+      "carYear": 1998,
+      "previousOwner": false
+   },
+   {
+      "itemId": "GvfTWuXuuABkQfERP7P51",
+      "carMake": "Ferrari",
+      "carModel": "Mustang",
+      "carYear": 2016,
+      "previousOwner": true
+   },
+   {
+      "itemId": "tOPxI27kRlBYsVTY-CvIt",
+      "carMake": "Chrysler",
+      "carModel": "A8",
+      "carYear": 1979,
+      "previousOwner": false
+   },
+   {
+      "itemId": "nyhTWBWPuYG1BgWL3xGPV",
+      "carMake": "Chrysler",
+      "carModel": "Model T",
+      "carYear": 2005,
+      "previousOwner": true
+   },
+   {
+      "itemId": "nD4rf2ILWE89AiQ1AeYtv",
+      "carMake": "Toyota",
+      "carModel": "Golf",
+      "carYear": 1991,
+      "previousOwner": true
+   },
+   {
+      "itemId": "mRhsFzXhI8N7xmRjNpDd-",
+      "carMake": "Nissan",
+      "carModel": "Accord",
+      "carYear": 1974,
+      "previousOwner": true
+   },
+   {
+      "itemId": "qmpEdj8KURx7wFGL9gqZu",
+      "carMake": "Volvo",
+      "carModel": "Wrangler",
+      "carYear": 1985,
+      "previousOwner": false
+   },
+   {
+      "itemId": "ehciMR9KeY0e_UuTrR4RG",
+      "carMake": "Maserati",
+      "carModel": "Grand Caravan",
+      "carYear": 2003,
+      "previousOwner": false
+   },
+   {
+      "itemId": "xANAQ9XXckvTHATuW65YV",
+      "carMake": "Nissan",
+      "carModel": "Altima",
+      "carYear": 1983,
+      "previousOwner": false
+   },
+   {
+      "itemId": "H5zFZFYTv-Wa-JPFF2_yq",
+      "carMake": "Toyota",
+      "carModel": "XC90",
+      "carYear": 1986,
+      "previousOwner": false
+   },
+   {
+      "itemId": "gJ52LDF93HMYlQi8ZuARb",
+      "carMake": "Hyundai",
+      "carModel": "F-150",
+      "carYear": 2014,
+      "previousOwner": false
+   },
+   {
+      "itemId": "5RZ860jjCLrIjCffBW8BU",
+      "carMake": "Mazda",
+      "carModel": "Silverado",
+      "carYear": 1983,
+      "previousOwner": false
+   },
+   {
+      "itemId": "mgbwmM6WI4rufz7YdQc39",
+      "carMake": "Toyota",
+      "carModel": "2",
+      "carYear": 1992,
+      "previousOwner": true
+   },
+   {
+      "itemId": "FY2iD1d9s7twVrU1IedGc",
+      "carMake": "Ford",
+      "carModel": "Durango",
+      "carYear": 1981,
+      "previousOwner": true
+   },
+   {
+      "itemId": "ZF14NUWDort3U3QKlALrm",
+      "carMake": "Toyota",
+      "carModel": "911",
+      "carYear": 1976,
+      "previousOwner": true
+   },
+   {
+      "itemId": "23zhzQd21_Luf2srnLy3z",
+      "carMake": "Audi",
+      "carModel": "Challenger",
+      "carYear": 1989,
+      "previousOwner": true
+   },
+   {
+      "itemId": "6E0uIzXF7Tj82ALPe3w73",
+      "carMake": "Rolls Royce",
+      "carModel": "Roadster",
+      "carYear": 1973,
+      "previousOwner": true
+   },
+   {
+      "itemId": "7bWF4yRS8OpGd_apoQCE-",
+      "carMake": "Ferrari",
+      "carModel": "Model 3",
+      "carYear": 1981,
+      "previousOwner": true
+   },
+   {
+      "itemId": "YWdx22nNTdyS0AGkS_-eD",
+      "carMake": "Tesla",
+      "carModel": "Wrangler",
+      "carYear": 1996,
+      "previousOwner": false
+   },
+   {
+      "itemId": "IgHtmb5kmJ8E94zy2vCoh",
+      "carMake": "Mercedes Benz",
+      "carModel": "Cruze",
+      "carYear": 1998,
+      "previousOwner": true
+   },
+   {
+      "itemId": "OE9w22BN77HoP6HOgJdMX",
+      "carMake": "Hyundai",
+      "carModel": "Roadster",
+      "carYear": 2007,
+      "previousOwner": true
+   },
+   {
+      "itemId": "K-1KQbqFR4PEhMsd-VcL0",
+      "carMake": "Chevrolet",
+      "carModel": "Camaro",
+      "carYear": 1985,
+      "previousOwner": false
+   },
+   {
+      "itemId": "9Zf4K234P9-l35-7cHULL",
+      "carMake": "Lamborghini",
+      "carModel": "Charger",
+      "carYear": 1971,
+      "previousOwner": true
+   },
+   {
+      "itemId": "q6R4KvlE1V_WBQ1DkVpZX",
+      "carMake": "Jeep",
+      "carModel": "A4",
+      "carYear": 2004,
+      "previousOwner": false
+   },
+   {
+      "itemId": "diJMcTHdvS67qiIfQORMF",
+      "carMake": "Nissan",
+      "carModel": "Model T",
+      "carYear": 1982,
+      "previousOwner": true
+   },
+   {
+      "itemId": "i_3O4BW0211g5LwG45-up",
+      "carMake": "Ford",
+      "carModel": "El Camino",
+      "carYear": 1984,
+      "previousOwner": false
+   },
+   {
+      "itemId": "CvbQQxjwGtkRaGIehqWIV",
+      "carMake": "Maserati",
+      "carModel": "A8",
+      "carYear": 1997,
+      "previousOwner": true
+   },
+   {
+      "itemId": "4HG3M7gF75ki3PT2keec_",
+      "carMake": "Volvo",
+      "carModel": "V90",
+      "carYear": 1978,
+      "previousOwner": true
+   },
+   {
+      "itemId": "9UKiNHGLqWTI5u7nRj9zz",
+      "carMake": "Jaguar",
+      "carModel": "Challenger",
+      "carYear": 2005,
+      "previousOwner": true
+   },
+   {
+      "itemId": "bEKDgV3DlPD8BRsCnVvPp",
+      "carMake": "Rolls Royce",
+      "carModel": "Golf",
+      "carYear": 2012,
+      "previousOwner": false
+   },
+   {
+      "itemId": "9GQCiYiD3PeEwEYM5P-9a",
+      "carMake": "Maserati",
+      "carModel": "XC90",
+      "carYear": 2018,
+      "previousOwner": true
+   },
+   {
+      "itemId": "bqJTLIeGS8v_pnz7mucXM",
+      "carMake": "Honda",
+      "carModel": "Land Cruiser",
+      "carYear": 2001,
+      "previousOwner": false
+   },
+   {
+      "itemId": "9ZVD58BiWZWOK-NW74uOh",
+      "carMake": "Cadillac",
+      "carModel": "Accord",
+      "carYear": 1981,
+      "previousOwner": true
+   },
+   {
+      "itemId": "-dey64GGteB9eBambvl_3",
+      "carMake": "Mercedes Benz",
+      "carModel": "Fortwo",
+      "carYear": 2006,
+      "previousOwner": true
+   },
+   {
+      "itemId": "fMiJi_d7cPCxVzPudmfMX",
+      "carMake": "Mazda",
+      "carModel": "Grand Cherokee",
+      "carYear": 2017,
+      "previousOwner": true
+   },
+   {
+      "itemId": "hNZFxDk8UGTbOi2jIMnUd",
+      "carMake": "Rolls Royce",
+      "carModel": "Roadster",
+      "carYear": 1986,
+      "previousOwner": true
+   },
+   {
+      "itemId": "C5RsV1ugEehGu83jWvOmd",
+      "carMake": "Toyota",
+      "carModel": "Volt",
+      "carYear": 1972,
+      "previousOwner": true
+   },
+   {
+      "itemId": "ln7Kd6rfircFAtkTfVwpj",
+      "carMake": "Kia",
+      "carModel": "F-150",
+      "carYear": 1975,
+      "previousOwner": false
+   },
+   {
+      "itemId": "CijgPxf5-EqmUuzh9T4Yk",
+      "carMake": "Lamborghini",
+      "carModel": "Accord",
+      "carYear": 1997,
+      "previousOwner": false
+   },
+   {
+      "itemId": "dpFu_CyOYOIHnoDcoLNRn",
+      "carMake": "Porsche",
+      "carModel": "LeBaron",
+      "carYear": 2016,
+      "previousOwner": true
+   },
+   {
+      "itemId": "rKf5ZOlBczR7zeuLq0C5e",
+      "carMake": "Jaguar",
+      "carModel": "Focus",
+      "carYear": 1984,
+      "previousOwner": false
+   },
+   {
+      "itemId": "O3K4g57vbN2FDaBsiMSP-",
+      "carMake": "Honda",
+      "carModel": "Challenger",
+      "carYear": 1992,
+      "previousOwner": true
+   },
+   {
+      "itemId": "ZgzQzf8pQIhWgStP41GCk",
+      "carMake": "Porsche",
+      "carModel": "Colorado",
+      "carYear": 2019,
+      "previousOwner": true
+   },
+   {
+      "itemId": "-Tdi7pUU1FAGZQoqH2rFF",
+      "carMake": "Bentley",
+      "carModel": "Model Y",
+      "carYear": 1986,
+      "previousOwner": true
+   },
+   {
+      "itemId": "EFpwOcloa8gmWnRWaxk21",
+      "carMake": "Polestar",
+      "carModel": "PT Cruiser",
+      "carYear": 1986,
+      "previousOwner": false
+   },
+   {
+      "itemId": "1OhA7CjpTvW5OvaHJv7Lq",
+      "carMake": "Rolls Royce",
+      "carModel": "Camry",
+      "carYear": 1972,
+      "previousOwner": true
+   },
+   {
+      "itemId": "iW5em2-8QAM8utKYOU5pC",
+      "carMake": "Nissan",
+      "carModel": "Explorer",
+      "carYear": 1978,
+      "previousOwner": false
+   },
+   {
+      "itemId": "6-XSrrr5ODm0HvZC_0dSH",
+      "carMake": "Nissan",
+      "carModel": "Fiesta",
+      "carYear": 2022,
+      "previousOwner": true
+   },
+   {
+      "itemId": "DR3k9bV2I54XK_YuWUSLG",
+      "carMake": "Aston Martin",
+      "carModel": "Expedition",
+      "carYear": 2021,
+      "previousOwner": true
+   },
+   {
+      "itemId": "sXenuVqssO-RA5GFco4Pn",
+      "carMake": "Honda",
+      "carModel": "Malibu",
+      "carYear": 2015,
+      "previousOwner": true
+   },
+   {
+      "itemId": "ycQdZ1uaOV3nM1fwm3usI",
+      "carMake": "Land Rover",
+      "carModel": "Element",
+      "carYear": 1991,
+      "previousOwner": false
+   },
+   {
+      "itemId": "fyvHfU24qdZPXi-qYk0hR",
+      "carMake": "Chevrolet",
+      "carModel": "F-150",
+      "carYear": 1978,
+      "previousOwner": true
+   },
+   {
+      "itemId": "loGsS7vX_OegVTewZZtuT",
+      "carMake": "Lamborghini",
+      "carModel": "XC90",
+      "carYear": 1978,
+      "previousOwner": true
+   },
+   {
+      "itemId": "QrrxB7KsHKZ5lRnKE53y1",
+      "carMake": "Tesla",
+      "carModel": "A8",
+      "carYear": 2010,
+      "previousOwner": true
+   },
+   {
+      "itemId": "ATjbA7ANqRztE-YaOX9OH",
+      "carMake": "Toyota",
+      "carModel": "Fortwo",
+      "carYear": 1999,
+      "previousOwner": false
+   },
+   {
+      "itemId": "U4lo3LwPumHmMzayWG5ts",
+      "carMake": "Polestar",
+      "carModel": "Element",
+      "carYear": 1973,
+      "previousOwner": true
+   },
+   {
+      "itemId": "H3QWc2yqkgwSDRcKLtZMT",
+      "carMake": "Jeep",
+      "carModel": "Model X",
+      "carYear": 1985,
+      "previousOwner": false
+   },
+   {
+      "itemId": "zNUD6q7_BWEFag_pfn7Hm",
+      "carMake": "Audi",
+      "carModel": "Model 3",
+      "carYear": 1973,
+      "previousOwner": true
+   },
+   {
+      "itemId": "j_fXZMe87pxOez__NKTr8",
+      "carMake": "Land Rover",
+      "carModel": "Altima",
+      "carYear": 1974,
+      "previousOwner": false
+   },
+   {
+      "itemId": "kFATjpR3Xu2_fgwQKCiXm",
+      "carMake": "Nissan",
+      "carModel": "Colorado",
+      "carYear": 1994,
+      "previousOwner": true
+   },
+   {
+      "itemId": "TGd6l-vjMcYURVzBWE0l8",
+      "carMake": "Bentley",
+      "carModel": "Silverado",
+      "carYear": 1986,
+      "previousOwner": true
+   },
+   {
+      "itemId": "XB9CpPyA722SEed8Hxlg_",
+      "carMake": "Lamborghini",
+      "carModel": "ATS",
+      "carYear": 2007,
+      "previousOwner": false
+   },
+   {
+      "itemId": "87z-pj50n5lhynbkl2daO",
+      "carMake": "Jaguar",
+      "carModel": "Escalade",
+      "carYear": 1997,
+      "previousOwner": false
+   },
+   {
+      "itemId": "TfT-J8y31mqlwKNYL0NPp",
+      "carMake": "Polestar",
+      "carModel": "2",
+      "carYear": 1996,
+      "previousOwner": true
+   },
+   {
+      "itemId": "l7Geb4UlHfh1DI4VOiwlF",
+      "carMake": "Volvo",
+      "carModel": "Beetle",
+      "carYear": 2002,
+      "previousOwner": true
+   },
+   {
+      "itemId": "CyO2k9p6xW-1jYMFy7lXm",
+      "carMake": "Toyota",
+      "carModel": "Expedition",
+      "carYear": 2018,
+      "previousOwner": true
+   },
+   {
+      "itemId": "qBCl7fVBLc3IeTxE20giw",
+      "carMake": "Fiat",
+      "carModel": "Taurus",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "6zwFmogo-o7XCvd0bINoB",
+      "carMake": "Porsche",
+      "carModel": "Altima",
+      "carYear": 2021,
+      "previousOwner": false
+   },
+   {
+      "itemId": "nEdLvwFymp2RTNYnQrvhP",
+      "carMake": "Porsche",
+      "carModel": "Durango",
+      "carYear": 2007,
+      "previousOwner": true
+   },
+   {
+      "itemId": "BoPPsReWzoWPVDvF6Ln7v",
+      "carMake": "Jaguar",
+      "carModel": "Roadster",
+      "carYear": 2023,
+      "previousOwner": true
+   },
+   {
+      "itemId": "1m-DmJ5EZ9SlGJXID1bSg",
+      "carMake": "Bentley",
+      "carModel": "1",
+      "carYear": 1980,
+      "previousOwner": false
+   },
+   {
+      "itemId": "1YeiL6vrtAWv__z5dirYs",
+      "carMake": "Volkswagen",
+      "carModel": "CTS",
+      "carYear": 1988,
+      "previousOwner": false
+   },
+   {
+      "itemId": "GnqTl-gc4LYf33HSVY9Pd",
+      "carMake": "Chevrolet",
+      "carModel": "Camaro",
+      "carYear": 2015,
+      "previousOwner": false
+   },
+   {
+      "itemId": "vXk6B3Bd-p-cNMNjFnXaW",
+      "carMake": "Toyota",
+      "carModel": "Wrangler",
+      "carYear": 2011,
+      "previousOwner": true
+   },
+   {
+      "itemId": "YywSkBCzxSg54t0sOCJr8",
+      "carMake": "Audi",
+      "carModel": "CX-9",
+      "carYear": 2012,
+      "previousOwner": false
+   },
+   {
+      "itemId": "9JNYOsIUP3LKwuh_BwAM2",
+      "carMake": "Jeep",
+      "carModel": "Grand Cherokee",
+      "carYear": 2013,
+      "previousOwner": true
+   },
+   {
+      "itemId": "F1nBGY5X7ArA1dqPp566j",
+      "carMake": "Kia",
+      "carModel": "Malibu",
+      "carYear": 1997,
+      "previousOwner": true
+   },
+   {
+      "itemId": "mABUnWnAnk8ctryzBACMq",
+      "carMake": "Volkswagen",
+      "carModel": "XC90",
+      "carYear": 1997,
+      "previousOwner": true
+   },
+   {
+      "itemId": "sv3RChM0TLC17uYO-4Lbf",
+      "carMake": "Dodge",
+      "carModel": "Model Y",
+      "carYear": 1985,
+      "previousOwner": false
+   },
+   {
+      "itemId": "uustmvHj2fL_z5GJ0u9yl",
+      "carMake": "Mazda",
+      "carModel": "Jetta",
+      "carYear": 1971,
+      "previousOwner": true
+   },
+   {
+      "itemId": "op5CPn-h45ZgAwhhqDA9g",
+      "carMake": "Aston Martin",
+      "carModel": "Camry",
+      "carYear": 1975,
+      "previousOwner": true
+   },
+   {
+      "itemId": "pXueHfiUZBYCc__BooAuI",
+      "carMake": "Jaguar",
+      "carModel": "Model X",
+      "carYear": 1972,
+      "previousOwner": true
+   },
+   {
+      "itemId": "orZlvml9LnlCNpsyN1MsQ",
+      "carMake": "Dodge",
+      "carModel": "Focus",
+      "carYear": 2022,
+      "previousOwner": false
+   },
+   {
+      "itemId": "iBzjMuz3s7Bbm65mPbHCI",
+      "carMake": "Chevrolet",
+      "carModel": "Prius",
+      "carYear": 1983,
+      "previousOwner": false
+   },
+   {
+      "itemId": "D62EK6zRNplcXzcnvcDT7",
+      "carMake": "Mazda",
+      "carModel": "Wrangler",
+      "carYear": 1973,
+      "previousOwner": false
+   },
+   {
+      "itemId": "oTw09Dw9zmjKa8wvJUhT1",
+      "carMake": "Bentley",
+      "carModel": "CX-9",
+      "carYear": 1982,
+      "previousOwner": true
+   },
+   {
+      "itemId": "0uSmUiZGP70hU_PGo3gC1",
+      "carMake": "Audi",
+      "carModel": "Ranchero",
+      "carYear": 1977,
+      "previousOwner": false
+   },
+   {
+      "itemId": "qC--J_Vfh8c5QLCBru-K7",
+      "carMake": "Mini",
+      "carModel": "V90",
+      "carYear": 1994,
+      "previousOwner": true
+   },
+   {
+      "itemId": "8kFC2x2Op_9J26EEn6cri",
+      "carMake": "Audi",
+      "carModel": "Element",
+      "carYear": 1977,
+      "previousOwner": true
+   },
+   {
+      "itemId": "bTyOGpVFzLKsoVvRflbKv",
+      "carMake": "Nissan",
+      "carModel": "Corvette",
+      "carYear": 2005,
+      "previousOwner": true
+   },
+   {
+      "itemId": "10J_0wXlIT6s1lonHSXPa",
+      "carMake": "Aston Martin",
+      "carModel": "Impala",
+      "carYear": 1985,
+      "previousOwner": false
+   },
+   {
+      "itemId": "WK4_l5KkBGgcX-vXROlEW",
+      "carMake": "BMW",
+      "carModel": "Durango",
+      "carYear": 1986,
+      "previousOwner": false
+   },
+   {
+      "itemId": "tsIQFoaQ_IX-OYaW-ZHPM",
+      "carMake": "Jeep",
+      "carModel": "Prius",
+      "carYear": 2006,
+      "previousOwner": true
+   },
+   {
+      "itemId": "zw9nMjMENvGtZiPzTNon1",
+      "carMake": "Chevrolet",
+      "carModel": "ATS",
+      "carYear": 2018,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Qa1P8Mmyv1hxABhTLkifO",
+      "carMake": "Bentley",
+      "carModel": "Impala",
+      "carYear": 2020,
+      "previousOwner": true
+   },
+   {
+      "itemId": "7_4fwjaqsuMBYKNY-rFvT",
+      "carMake": "Lamborghini",
+      "carModel": "Explorer",
+      "carYear": 1977,
+      "previousOwner": true
+   },
+   {
+      "itemId": "CxJqPxBDtLDtaerzUliE-",
+      "carMake": "Mini",
+      "carModel": "Golf",
+      "carYear": 1978,
+      "previousOwner": true
+   },
+   {
+      "itemId": "uG-HfwBdcPN899rca1g09",
+      "carMake": "Bentley",
+      "carModel": "Spyder",
+      "carYear": 1988,
+      "previousOwner": false
+   },
+   {
+      "itemId": "XUwwgngiJSKoslBdPl-Jd",
+      "carMake": "Mazda",
+      "carModel": "CX-9",
+      "carYear": 2004,
+      "previousOwner": true
+   },
+   {
+      "itemId": "f4kyx86d76pdKP_AB28pG",
+      "carMake": "Land Rover",
+      "carModel": "Alpine",
+      "carYear": 1970,
+      "previousOwner": true
+   },
+   {
+      "itemId": "1Ym9uQ8CMExxdZ7tgIimx",
+      "carMake": "Audi",
+      "carModel": "A8",
+      "carYear": 2009,
+      "previousOwner": false
+   },
+   {
+      "itemId": "WxSxEJnLyf_CzarR1tFAC",
+      "carMake": "Mini",
+      "carModel": "Countach",
+      "carYear": 1991,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Ro7HaLQ3PIgxamunLgq_1",
+      "carMake": "Smart",
+      "carModel": "Ranchero",
+      "carYear": 1972,
+      "previousOwner": false
+   },
+   {
+      "itemId": "GM36vrxV9xnd79Q0RiiL7",
+      "carMake": "Cadillac",
+      "carModel": "Civic",
+      "carYear": 1996,
+      "previousOwner": true
+   },
+   {
+      "itemId": "sDlAUCRApLrFj8eNf8P6i",
+      "carMake": "Mercedes Benz",
+      "carModel": "Grand Cherokee",
+      "carYear": 2003,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Kl30JzHpNlcJQ33ND0RWZ",
+      "carMake": "Chrysler",
+      "carModel": "Prius",
+      "carYear": 1970,
+      "previousOwner": true
+   },
+   {
+      "itemId": "efJHEd68idcwJsR2C8esG",
+      "carMake": "Tesla",
+      "carModel": "F-150",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "BXrMHlTh1Kfazk2iPl0IU",
+      "carMake": "Audi",
+      "carModel": "Altima",
+      "carYear": 1973,
+      "previousOwner": false
+   },
+   {
+      "itemId": "3NiuwTykzkHGiG9oh8U9p",
+      "carMake": "Tesla",
+      "carModel": "XTS",
+      "carYear": 1997,
+      "previousOwner": true
+   },
+   {
+      "itemId": "t8Ims6I9KLbO9l73yEFCU",
+      "carMake": "Bugatti",
+      "carModel": "PT Cruiser",
+      "carYear": 1998,
+      "previousOwner": true
+   },
+   {
+      "itemId": "BvBxEZtMdUtDKXj4Ifyb5",
+      "carMake": "Porsche",
+      "carModel": "Aventador",
+      "carYear": 1995,
+      "previousOwner": false
+   },
+   {
+      "itemId": "1yY75J_8UORaN1LqM1k4f",
+      "carMake": "Lamborghini",
+      "carModel": "Grand Caravan",
+      "carYear": 1999,
+      "previousOwner": false
+   },
+   {
+      "itemId": "w9RR3Ze-2pdkVKGaQHhSo",
+      "carMake": "Tesla",
+      "carModel": "Volt",
+      "carYear": 1974,
+      "previousOwner": false
+   },
+   {
+      "itemId": "JYagycP5lN2TX-vASwvN6",
+      "carMake": "Bugatti",
+      "carModel": "Cruze",
+      "carYear": 1998,
+      "previousOwner": true
+   },
+   {
+      "itemId": "7Vd7csvWEINnuZGmqAx3d",
+      "carMake": "Chevrolet",
+      "carModel": "Colorado",
+      "carYear": 2018,
+      "previousOwner": false
+   },
+   {
+      "itemId": "h3b9IgyLKSxjsRZmAKqGA",
+      "carMake": "Audi",
+      "carModel": "Sentra",
+      "carYear": 2014,
+      "previousOwner": false
+   },
+   {
+      "itemId": "PPhrP66TeIlHB9oGN0adF",
+      "carMake": "Mini",
+      "carModel": "Accord",
+      "carYear": 1973,
+      "previousOwner": true
+   },
+   {
+      "itemId": "AdJ2k1B29lrXnZwcIuglx",
+      "carMake": "Audi",
+      "carModel": "Jetta",
+      "carYear": 1973,
+      "previousOwner": true
+   },
+   {
+      "itemId": "M6TwM3LJHfkf6uj5EIxWl",
+      "carMake": "Rolls Royce",
+      "carModel": "Cruze",
+      "carYear": 1986,
+      "previousOwner": true
+   },
+   {
+      "itemId": "HcCB_oSHXp7h81P-TEHYi",
+      "carMake": "Aston Martin",
+      "carModel": "Beetle",
+      "carYear": 1972,
+      "previousOwner": true
+   },
+   {
+      "itemId": "YJ6hoI6HQKPupo_OeXgxX",
+      "carMake": "Jaguar",
+      "carModel": "PT Cruiser",
+      "carYear": 2018,
+      "previousOwner": true
+   },
+   {
+      "itemId": "HkpMbUMcYalyNP-OW0CB1",
+      "carMake": "Mazda",
+      "carModel": "Mercielago",
+      "carYear": 1995,
+      "previousOwner": false
+   },
+   {
+      "itemId": "CpVPDlFhnnERNBZ9p8O_i",
+      "carMake": "Chrysler",
+      "carModel": "ATS",
+      "carYear": 2007,
+      "previousOwner": false
+   },
+   {
+      "itemId": "6Oqo6AAInuCCDMjqw1cWd",
+      "carMake": "Polestar",
+      "carModel": "CTS",
+      "carYear": 1984,
+      "previousOwner": false
+   },
+   {
+      "itemId": "pK-7Z01S41hMPhV9x48_U",
+      "carMake": "Mazda",
+      "carModel": "A8",
+      "carYear": 1993,
+      "previousOwner": false
+   },
+   {
+      "itemId": "hewGNn_jhhWl1yHl9SkUW",
+      "carMake": "Kia",
+      "carModel": "LeBaron",
+      "carYear": 1996,
+      "previousOwner": false
+   },
+   {
+      "itemId": "WFq4ooS8bKOjhh-dU6kyG",
+      "carMake": "Bugatti",
+      "carModel": "Challenger",
+      "carYear": 1995,
+      "previousOwner": true
+   },
+   {
+      "itemId": "UctJ_ttYeIFKGnlbxKEeX",
+      "carMake": "Bugatti",
+      "carModel": "Taurus",
+      "carYear": 2019,
+      "previousOwner": true
+   },
+   {
+      "itemId": "JPYhewC4qKZ3fAk1giVwe",
+      "carMake": "Tesla",
+      "carModel": "Jetta",
+      "carYear": 2020,
+      "previousOwner": false
+   },
+   {
+      "itemId": "53f9yJ3n1n1VAKPyay4V3",
+      "carMake": "Lamborghini",
+      "carModel": "CX-9",
+      "carYear": 2008,
+      "previousOwner": true
+   },
+   {
+      "itemId": "17QWqU31kmx4Ew9Q0Hqnk",
+      "carMake": "Cadillac",
+      "carModel": "Volt",
+      "carYear": 2006,
+      "previousOwner": false
+   },
+   {
+      "itemId": "9VnoLRkA7jqwuF7XooiM3",
+      "carMake": "Bugatti",
+      "carModel": "Mercielago",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "4HbuSwhu_v9ekXEoDVWwP",
+      "carMake": "Aston Martin",
+      "carModel": "Civic",
+      "carYear": 2013,
+      "previousOwner": false
+   },
+   {
+      "itemId": "F9rar6kX6GLaqhFz4RiAo",
+      "carMake": "Audi",
+      "carModel": "Alpine",
+      "carYear": 2005,
+      "previousOwner": true
+   },
+   {
+      "itemId": "c1EXqKO2qxkm9OFo8y3jX",
+      "carMake": "Rolls Royce",
+      "carModel": "CX-9",
+      "carYear": 2007,
+      "previousOwner": true
+   },
+   {
+      "itemId": "4zNPDzuPGyJ_NpXxyhcVS",
+      "carMake": "Chevrolet",
+      "carModel": "Countach",
+      "carYear": 1971,
+      "previousOwner": true
+   },
+   {
+      "itemId": "0k394xukLapXBpBsuCNYx",
+      "carMake": "Kia",
+      "carModel": "Silverado",
+      "carYear": 1989,
+      "previousOwner": true
+   },
+   {
+      "itemId": "XPXwEtfXgTchzOBQ7FXgl",
+      "carMake": "Volvo",
+      "carModel": "A8",
+      "carYear": 1976,
+      "previousOwner": true
+   },
+   {
+      "itemId": "SP_Y4kkvY8_VP_0JxWT5D",
+      "carMake": "Maserati",
+      "carModel": "Explorer",
+      "carYear": 1980,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Ib7-sH5NJsluV9q0dRNVE",
+      "carMake": "Toyota",
+      "carModel": "Land Cruiser",
+      "carYear": 2020,
+      "previousOwner": false
+   },
+   {
+      "itemId": "pPvHZ9eUhAF8zljMEcIGf",
+      "carMake": "Mini",
+      "carModel": "Grand Caravan",
+      "carYear": 1983,
+      "previousOwner": true
+   },
+   {
+      "itemId": "EqEw5a-gRS9RySr4SBKKD",
+      "carMake": "Chevrolet",
+      "carModel": "Alpine",
+      "carYear": 1999,
+      "previousOwner": false
+   },
+   {
+      "itemId": "05TdRMXcSOp8KZxilI6RK",
+      "carMake": "Mercedes Benz",
+      "carModel": "Sentra",
+      "carYear": 1982,
+      "previousOwner": true
+   },
+   {
+      "itemId": "3ULgqi9ks-Ojkf8VVP7zF",
+      "carMake": "Kia",
+      "carModel": "Accord",
+      "carYear": 2022,
+      "previousOwner": false
+   },
+   {
+      "itemId": "7pbEXH4VuQHMUV-Hip4WV",
+      "carMake": "Fiat",
+      "carModel": "Charger",
+      "carYear": 1993,
+      "previousOwner": false
+   },
+   {
+      "itemId": "zJ3cUH-KddU5Zi44aCRAz",
+      "carMake": "Polestar",
+      "carModel": "Aventador",
+      "carYear": 2002,
+      "previousOwner": true
+   },
+   {
+      "itemId": "YAveoyFrNNqG-04zzSr6V",
+      "carMake": "Maserati",
+      "carModel": "Wrangler",
+      "carYear": 1990,
+      "previousOwner": true
+   },
+   {
+      "itemId": "vK3qURhVfzdcBl4jVwjFY",
+      "carMake": "Hyundai",
+      "carModel": "Charger",
+      "carYear": 1992,
+      "previousOwner": false
+   },
+   {
+      "itemId": "sR4l59pf49r4aeQ9dfYfR",
+      "carMake": "Cadillac",
+      "carModel": "Charger",
+      "carYear": 2010,
+      "previousOwner": true
+   },
+   {
+      "itemId": "QZAn6ddaAXYBXZzUPRHZo",
+      "carMake": "Bentley",
+      "carModel": "Volt",
+      "carYear": 2010,
+      "previousOwner": true
+   },
+   {
+      "itemId": "UA_qAU4GVSybqzedPjhTr",
+      "carMake": "Kia",
+      "carModel": "ATS",
+      "carYear": 2013,
+      "previousOwner": false
+   },
+   {
+      "itemId": "OXyacgxUAZs3x8qrIICwY",
+      "carMake": "Cadillac",
+      "carModel": "Silverado",
+      "carYear": 1984,
+      "previousOwner": true
+   },
+   {
+      "itemId": "yy7Epe9FKjeCb99U8vwun",
+      "carMake": "Ford",
+      "carModel": "CX-9",
+      "carYear": 1983,
+      "previousOwner": false
+   },
+   {
+      "itemId": "T-7wr7nJH7675XSveQFnd",
+      "carMake": "Chevrolet",
+      "carModel": "Civic",
+      "carYear": 1980,
+      "previousOwner": false
+   },
+   {
+      "itemId": "L9F0cO2-MLtCa445y0UrU",
+      "carMake": "Ford",
+      "carModel": "Model T",
+      "carYear": 2023,
+      "previousOwner": true
+   },
+   {
+      "itemId": "n2mgpjNivgTx1-ZJ0BtYJ",
+      "carMake": "Bentley",
+      "carModel": "911",
+      "carYear": 2015,
+      "previousOwner": false
+   },
+   {
+      "itemId": "JBZF7Upc8BOB0eoR8zaL6",
+      "carMake": "Porsche",
+      "carModel": "Ranchero",
+      "carYear": 1991,
+      "previousOwner": false
+   },
+   {
+      "itemId": "X31fPdfFqlkMcA3aMWGZn",
+      "carMake": "Fiat",
+      "carModel": "PT Cruiser",
+      "carYear": 1987,
+      "previousOwner": false
+   },
+   {
+      "itemId": "gCLuvrL-4evTSgGzScRVI",
+      "carMake": "Jaguar",
+      "carModel": "LeBaron",
+      "carYear": 2023,
+      "previousOwner": false
+   },
+   {
+      "itemId": "4ABjnKT94NUDrXz_lieYT",
+      "carMake": "Honda",
+      "carModel": "El Camino",
+      "carYear": 2000,
+      "previousOwner": false
+   },
+   {
+      "itemId": "hyYtqJqKu1BVJL6Q1xy6Q",
+      "carMake": "Kia",
+      "carModel": "Charger",
+      "carYear": 2011,
+      "previousOwner": false
+   },
+   {
+      "itemId": "LWQrDESH7rZsiMBJiIJ6c",
+      "carMake": "Volvo",
+      "carModel": "Wrangler",
+      "carYear": 1993,
+      "previousOwner": false
+   },
+   {
+      "itemId": "XiWhb8NXvfXhZS4cGpeKx",
+      "carMake": "Aston Martin",
+      "carModel": "F-150",
+      "carYear": 1973,
+      "previousOwner": true
+   },
+   {
+      "itemId": "psahf8O8CUkxugUL55mT7",
+      "carMake": "Volvo",
+      "carModel": "911",
+      "carYear": 1983,
+      "previousOwner": true
+   },
+   {
+      "itemId": "iV8rqPXE3BMaMfhDKkAB5",
+      "carMake": "Fiat",
+      "carModel": "Mustang",
+      "carYear": 1970,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Y6BH_n4g8GUD1yLJh4HCO",
+      "carMake": "Audi",
+      "carModel": "CTS",
+      "carYear": 1991,
+      "previousOwner": true
+   },
+   {
+      "itemId": "te9M_FJq4Zj1M6ZL31Uw_",
+      "carMake": "BMW",
+      "carModel": "Expedition",
+      "carYear": 2005,
+      "previousOwner": true
+   },
+   {
+      "itemId": "WFcPiehtFznc9u0ChYyta",
+      "carMake": "Jeep",
+      "carModel": "Mustang",
+      "carYear": 1978,
+      "previousOwner": false
+   },
+   {
+      "itemId": "pSoAkCRmTunuo79w1YEzh",
+      "carMake": "Kia",
+      "carModel": "Aventador",
+      "carYear": 1994,
+      "previousOwner": false
+   },
+   {
+      "itemId": "zEGrNRmPzT_OScpKUbFO9",
+      "carMake": "BMW",
+      "carModel": "PT Cruiser",
+      "carYear": 2001,
+      "previousOwner": false
+   },
+   {
+      "itemId": "zj6rzvuNL0vSuKmRLFx0s",
+      "carMake": "Porsche",
+      "carModel": "Impala",
+      "carYear": 1986,
+      "previousOwner": true
+   },
+   {
+      "itemId": "GI4NbRRNI1cntOVTraK_C",
+      "carMake": "Land Rover",
+      "carModel": "Model 3",
+      "carYear": 1976,
+      "previousOwner": false
+   },
+   {
+      "itemId": "_JjcNh9itOU8CsNUqJRgT",
+      "carMake": "Mini",
+      "carModel": "911",
+      "carYear": 1973,
+      "previousOwner": false
+   },
+   {
+      "itemId": "g6TalexV6ZWaIvjfkx4R1",
+      "carMake": "Porsche",
+      "carModel": "Grand Cherokee",
+      "carYear": 1975,
+      "previousOwner": true
+   },
+   {
+      "itemId": "OkLjYpmrTpizYnxCT06xO",
+      "carMake": "Mercedes Benz",
+      "carModel": "Alpine",
+      "carYear": 2023,
+      "previousOwner": false
+   },
+   {
+      "itemId": "9EfraKR1OWLV_xPdAEQeJ",
+      "carMake": "Honda",
+      "carModel": "Civic",
+      "carYear": 1979,
+      "previousOwner": false
+   },
+   {
+      "itemId": "azBtiW922lznZTtFrm6r2",
+      "carMake": "Polestar",
+      "carModel": "A4",
+      "carYear": 2014,
+      "previousOwner": true
+   },
+   {
+      "itemId": "jNzt4jG28UiFhRRFmh0VP",
+      "carMake": "Chevrolet",
+      "carModel": "Mercielago",
+      "carYear": 2018,
+      "previousOwner": true
+   },
+   {
+      "itemId": "xx7q7T0jvZTrEITHCRJqH",
+      "carMake": "BMW",
+      "carModel": "Corvette",
+      "carYear": 1971,
+      "previousOwner": true
+   },
+   {
+      "itemId": "RLgsYuffWuFAMn4qixljt",
+      "carMake": "Honda",
+      "carModel": "Ranchero",
+      "carYear": 1978,
+      "previousOwner": false
+   },
+   {
+      "itemId": "pTwhBvD9kFfCPIeqQLfY0",
+      "carMake": "Land Rover",
+      "carModel": "Grand Cherokee",
+      "carYear": 1981,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Hp5IpySTnLPTEvWAux1M_",
+      "carMake": "Fiat",
+      "carModel": "Focus",
+      "carYear": 1981,
+      "previousOwner": true
+   },
+   {
+      "itemId": "YieXc44cykosgXsxiC0YU",
+      "carMake": "Chrysler",
+      "carModel": "Accord",
+      "carYear": 1983,
+      "previousOwner": true
+   },
+   {
+      "itemId": "dASbDtw4j4yUi1890wpxp",
+      "carMake": "Land Rover",
+      "carModel": "Grand Caravan",
+      "carYear": 2009,
+      "previousOwner": false
+   },
+   {
+      "itemId": "VgcjZT5ZuMwpUgmiCU5tI",
+      "carMake": "BMW",
+      "carModel": "Charger",
+      "carYear": 1995,
+      "previousOwner": false
+   },
+   {
+      "itemId": "JcaqYst2OElCEdQ9Msu4B",
+      "carMake": "Bentley",
+      "carModel": "Model X",
+      "carYear": 1994,
+      "previousOwner": false
+   },
+   {
+      "itemId": "ZFTOR8CF4BmK4XwuubBqV",
+      "carMake": "Chevrolet",
+      "carModel": "Land Cruiser",
+      "carYear": 2021,
+      "previousOwner": true
+   },
+   {
+      "itemId": "e9sMlVE77srvkk8aiyigj",
+      "carMake": "Mercedes Benz",
+      "carModel": "Prius",
+      "carYear": 2016,
+      "previousOwner": true
+   },
+   {
+      "itemId": "qHy4MkR-1hQpFA1rKb2H6",
+      "carMake": "Hyundai",
+      "carModel": "Silverado",
+      "carYear": 1999,
+      "previousOwner": true
+   },
+   {
+      "itemId": "IcmF9mpg46QSiYK6OA68C",
+      "carMake": "Nissan",
+      "carModel": "XTS",
+      "carYear": 1989,
+      "previousOwner": true
+   },
+   {
+      "itemId": "VRlm1x4X6H1uMj0qg86J_",
+      "carMake": "Audi",
+      "carModel": "Golf",
+      "carYear": 1980,
+      "previousOwner": true
+   },
+   {
+      "itemId": "9E5JBHZtbKS4fXuSbR1ri",
+      "carMake": "Dodge",
+      "carModel": "Challenger",
+      "carYear": 2010,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Fh8MarP3Kgw72mbz0JPco",
+      "carMake": "Volkswagen",
+      "carModel": "Model Y",
+      "carYear": 2007,
+      "previousOwner": false
+   },
+   {
+      "itemId": "FggyYZIdf-7dTHdEbCrnV",
+      "carMake": "Chevrolet",
+      "carModel": "Taurus",
+      "carYear": 2011,
+      "previousOwner": true
+   },
+   {
+      "itemId": "cPWhUfM7N2QH7qtqWHKNa",
+      "carMake": "Rolls Royce",
+      "carModel": "V90",
+      "carYear": 2001,
+      "previousOwner": false
+   },
+   {
+      "itemId": "1OtL46BkS-uY1WmxzC0kb",
+      "carMake": "Honda",
+      "carModel": "1",
+      "carYear": 2023,
+      "previousOwner": true
+   },
+   {
+      "itemId": "zTqQlh0YIfsQ6wSEGPzEk",
+      "carMake": "Mini",
+      "carModel": "Camaro",
+      "carYear": 2019,
+      "previousOwner": false
+   },
+   {
+      "itemId": "IYQGr7Bu7agGOCIqfEgfC",
+      "carMake": "Nissan",
+      "carModel": "Civic",
+      "carYear": 1979,
+      "previousOwner": false
+   },
+   {
+      "itemId": "dtKoTPYKUHbSLYIwSLun8",
+      "carMake": "Jaguar",
+      "carModel": "Countach",
+      "carYear": 2018,
+      "previousOwner": true
+   },
+   {
+      "itemId": "C3K1jufOYz8xRpE6BqCbw",
+      "carMake": "Dodge",
+      "carModel": "Focus",
+      "carYear": 2006,
+      "previousOwner": true
+   },
+   {
+      "itemId": "WmHNq4ijp9NqnhlRzvVhZ",
+      "carMake": "Dodge",
+      "carModel": "Civic",
+      "carYear": 1987,
+      "previousOwner": true
+   },
+   {
+      "itemId": "PlaW1W11d8NF2LyEzfPl_",
+      "carMake": "Cadillac",
+      "carModel": "Accord",
+      "carYear": 2019,
+      "previousOwner": false
+   },
+   {
+      "itemId": "758sukC_CY8ee_Tp9MxTB",
+      "carMake": "Kia",
+      "carModel": "Alpine",
+      "carYear": 2002,
+      "previousOwner": true
+   },
+   {
+      "itemId": "S8NkTJIjKiNCYlrslK7RM",
+      "carMake": "Rolls Royce",
+      "carModel": "Durango",
+      "carYear": 1986,
+      "previousOwner": true
+   },
+   {
+      "itemId": "c0t-FJ-CZdwNB3IBLTMo5",
+      "carMake": "Audi",
+      "carModel": "Sentra",
+      "carYear": 1997,
+      "previousOwner": false
+   },
+   {
+      "itemId": "QdVsoytHgx9nXzcfWuZSh",
+      "carMake": "Tesla",
+      "carModel": "Explorer",
+      "carYear": 1972,
+      "previousOwner": true
+   },
+   {
+      "itemId": "zMkHvF4JsOECbMg44uyUZ",
+      "carMake": "Mercedes Benz",
+      "carModel": "Corvette",
+      "carYear": 2001,
+      "previousOwner": false
+   },
+   {
+      "itemId": "rI0Y-sW_uMxT3LphZdHgb",
+      "carMake": "Mini",
+      "carModel": "Model S",
+      "carYear": 2015,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Fcd2UwqcYttf-YE5YL9vJ",
+      "carMake": "Maserati",
+      "carModel": "Roadster",
+      "carYear": 2023,
+      "previousOwner": false
+   },
+   {
+      "itemId": "0na6qxkX9sCWMgdxNbvFe",
+      "carMake": "Rolls Royce",
+      "carModel": "Aventador",
+      "carYear": 2011,
+      "previousOwner": false
+   },
+   {
+      "itemId": "4tjGu0C31ApX6Sxmt7xnS",
+      "carMake": "Fiat",
+      "carModel": "Explorer",
+      "carYear": 2016,
+      "previousOwner": true
+   },
+   {
+      "itemId": "o-45dOor_r7hp6gJYSoeh",
+      "carMake": "Bentley",
+      "carModel": "Charger",
+      "carYear": 1981,
+      "previousOwner": true
+   },
+   {
+      "itemId": "bnPuoWfvO78by58GHBR2p",
+      "carMake": "Cadillac",
+      "carModel": "Beetle",
+      "carYear": 1976,
+      "previousOwner": true
+   },
+   {
+      "itemId": "9fdNd6YnBK8zawzzKsKpF",
+      "carMake": "Hyundai",
+      "carModel": "Accord",
+      "carYear": 1989,
+      "previousOwner": true
+   },
+   {
+      "itemId": "AuPQvXH3nBhPn5kv--X4B",
+      "carMake": "Lamborghini",
+      "carModel": "Aventador",
+      "carYear": 1979,
+      "previousOwner": true
+   },
+   {
+      "itemId": "iAt8Sx4qi3KIntaAyYOpo",
+      "carMake": "Ferrari",
+      "carModel": "Land Cruiser",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "JNb880tSoFG-klkCYisXh",
+      "carMake": "Bentley",
+      "carModel": "Civic",
+      "carYear": 1998,
+      "previousOwner": true
+   },
+   {
+      "itemId": "lUkKPd5Tzd80hs42A6CKp",
+      "carMake": "Bugatti",
+      "carModel": "Model S",
+      "carYear": 2018,
+      "previousOwner": false
+   },
+   {
+      "itemId": "EAKFcjpr5D-jRbhj2x1ot",
+      "carMake": "Kia",
+      "carModel": "Explorer",
+      "carYear": 2023,
+      "previousOwner": true
+   },
+   {
+      "itemId": "ooClgJxdk6F--0RMaFmEu",
+      "carMake": "Dodge",
+      "carModel": "A8",
+      "carYear": 1985,
+      "previousOwner": true
+   },
+   {
+      "itemId": "wT5euGTByRjyW6q4OIMJZ",
+      "carMake": "Ford",
+      "carModel": "A8",
+      "carYear": 1977,
+      "previousOwner": false
+   },
+   {
+      "itemId": "3JxdsbLc_RKpo02pIW8eB",
+      "carMake": "Chevrolet",
+      "carModel": "Mercielago",
+      "carYear": 2009,
+      "previousOwner": true
+   },
+   {
+      "itemId": "4xPE0YvWeXNXV6HitopYY",
+      "carMake": "Smart",
+      "carModel": "Mustang",
+      "carYear": 2018,
+      "previousOwner": false
+   },
+   {
+      "itemId": "w71OuziSa9N9XRodfQUbI",
+      "carMake": "Volkswagen",
+      "carModel": "911",
+      "carYear": 1972,
+      "previousOwner": false
+   },
+   {
+      "itemId": "wGJ196BJOychRXx4oZV9F",
+      "carMake": "Bugatti",
+      "carModel": "Accord",
+      "carYear": 1999,
+      "previousOwner": true
+   },
+   {
+      "itemId": "9J2qDU-wnLFydmAW_4VZH",
+      "carMake": "Ford",
+      "carModel": "Model 3",
+      "carYear": 1980,
+      "previousOwner": true
+   },
+   {
+      "itemId": "g1aWAs5YZ9o_9up64bfjr",
+      "carMake": "Polestar",
+      "carModel": "Grand Caravan",
+      "carYear": 2013,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Ygxs3CkDSg4sikrXm-2t3",
+      "carMake": "Mercedes Benz",
+      "carModel": "Grand Caravan",
+      "carYear": 2006,
+      "previousOwner": true
+   },
+   {
+      "itemId": "HhkLooGYoKWB8hzT9brFA",
+      "carMake": "Tesla",
+      "carModel": "Malibu",
+      "carYear": 2012,
+      "previousOwner": true
+   },
+   {
+      "itemId": "7BXATpcPXdYjX8U4Rb0DQ",
+      "carMake": "Ferrari",
+      "carModel": "F-150",
+      "carYear": 1970,
+      "previousOwner": false
+   },
+   {
+      "itemId": "uwB9xa8sFSIPoj-RJvj26",
+      "carMake": "Audi",
+      "carModel": "Mustang",
+      "carYear": 1987,
+      "previousOwner": false
+   },
+   {
+      "itemId": "MbxDR6M46GVLTM7825_R0",
+      "carMake": "Rolls Royce",
+      "carModel": "Jetta",
+      "carYear": 1981,
+      "previousOwner": false
+   },
+   {
+      "itemId": "mVZJRm5JY3OsuyLS_LfUe",
+      "carMake": "Bentley",
+      "carModel": "Fortwo",
+      "carYear": 1985,
+      "previousOwner": true
+   },
+   {
+      "itemId": "ZsFCVrxmJxlBM1wRCz0W5",
+      "carMake": "Mercedes Benz",
+      "carModel": "Element",
+      "carYear": 1994,
+      "previousOwner": true
+   },
+   {
+      "itemId": "gQMRpjEKVx4uSX7-hoogy",
+      "carMake": "Dodge",
+      "carModel": "Focus",
+      "carYear": 2023,
+      "previousOwner": false
+   },
+   {
+      "itemId": "6TgnOh8D1X6MZQ6ds51bU",
+      "carMake": "Chevrolet",
+      "carModel": "Altima",
+      "carYear": 1980,
+      "previousOwner": false
+   },
+   {
+      "itemId": "SwbZ3ZODUstKw0WZ85xAM",
+      "carMake": "Cadillac",
+      "carModel": "Jetta",
+      "carYear": 2016,
+      "previousOwner": true
+   },
+   {
+      "itemId": "fxFXjZ4Rv5r6PARB0mkqs",
+      "carMake": "BMW",
+      "carModel": "Volt",
+      "carYear": 1990,
+      "previousOwner": true
+   },
+   {
+      "itemId": "CHpHCBya6rIXb-keemks4",
+      "carMake": "Maserati",
+      "carModel": "Beetle",
+      "carYear": 2017,
+      "previousOwner": true
+   },
+   {
+      "itemId": "L48YKQG_nbHH0sxlRMqM7",
+      "carMake": "Jaguar",
+      "carModel": "Malibu",
+      "carYear": 1997,
+      "previousOwner": true
+   },
+   {
+      "itemId": "i8X3p7QARfyp0EZ9vNUJU",
+      "carMake": "Polestar",
+      "carModel": "Roadster",
+      "carYear": 2021,
+      "previousOwner": false
+   },
+   {
+      "itemId": "xsr2qjWLu9_2SguWTfpt8",
+      "carMake": "BMW",
+      "carModel": "Volt",
+      "carYear": 2004,
+      "previousOwner": true
+   },
+   {
+      "itemId": "DiGhceGPdcHUVS_m9LpGv",
+      "carMake": "Land Rover",
+      "carModel": "Sentra",
+      "carYear": 1999,
+      "previousOwner": false
+   },
+   {
+      "itemId": "yvMDgKoO2sHt1BrNoBiy4",
+      "carMake": "Fiat",
+      "carModel": "Roadster",
+      "carYear": 1988,
+      "previousOwner": true
+   },
+   {
+      "itemId": "gH--TQhSwW9x4K8h4va_r",
+      "carMake": "Audi",
+      "carModel": "Roadster",
+      "carYear": 1989,
+      "previousOwner": false
+   },
+   {
+      "itemId": "pKj6oW2-GjM8jaPyaYAGJ",
+      "carMake": "Chevrolet",
+      "carModel": "Grand Cherokee",
+      "carYear": 1976,
+      "previousOwner": false
+   },
+   {
+      "itemId": "bitNSKTiOT_M_svpiixET",
+      "carMake": "Maserati",
+      "carModel": "Aventador",
+      "carYear": 2015,
+      "previousOwner": true
+   },
+   {
+      "itemId": "rza4NVLO3AZv1vMOZs6Ll",
+      "carMake": "Volvo",
+      "carModel": "Element",
+      "carYear": 2016,
+      "previousOwner": true
+   },
+   {
+      "itemId": "CCB1HejZmDTauQEDA-iM4",
+      "carMake": "Jaguar",
+      "carModel": "Escalade",
+      "carYear": 1998,
+      "previousOwner": false
+   },
+   {
+      "itemId": "6tRukw4DGpFqzoOkucZTO",
+      "carMake": "Ferrari",
+      "carModel": "2",
+      "carYear": 2013,
+      "previousOwner": false
+   },
+   {
+      "itemId": "B9xcImxh9LTr-HFXUh5WU",
+      "carMake": "Bentley",
+      "carModel": "LeBaron",
+      "carYear": 2019,
+      "previousOwner": true
+   },
+   {
+      "itemId": "ZYObO4ZWiDmvcnGHv6cLe",
+      "carMake": "Tesla",
+      "carModel": "ATS",
+      "carYear": 1979,
+      "previousOwner": false
+   },
+   {
+      "itemId": "k_PZAlctRZbYnrAmuWF5s",
+      "carMake": "Ferrari",
+      "carModel": "Beetle",
+      "carYear": 1989,
+      "previousOwner": false
+   },
+   {
+      "itemId": "ZgB-w8KQYQzo9LaXLeB65",
+      "carMake": "Dodge",
+      "carModel": "Durango",
+      "carYear": 1991,
+      "previousOwner": false
+   },
+   {
+      "itemId": "RuezXBtNy7XkU1DRsrJLL",
+      "carMake": "Nissan",
+      "carModel": "ATS",
+      "carYear": 1977,
+      "previousOwner": true
+   },
+   {
+      "itemId": "tfYlwAgwCHsm60IzdiBVF",
+      "carMake": "Chevrolet",
+      "carModel": "Colorado",
+      "carYear": 2005,
+      "previousOwner": false
+   },
+   {
+      "itemId": "oh5sGygwnSc3fPA0jB8Rx",
+      "carMake": "Rolls Royce",
+      "carModel": "Charger",
+      "carYear": 2004,
+      "previousOwner": false
+   },
+   {
+      "itemId": "v69XpFH6Ti0DaznrelDLI",
+      "carMake": "Aston Martin",
+      "carModel": "Accord",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "2kjxj9IZuq2HtNw4TDZrw",
+      "carMake": "Honda",
+      "carModel": "Jetta",
+      "carYear": 2001,
+      "previousOwner": true
+   },
+   {
+      "itemId": "vjHcCAyBOt3j1D3h7Q8IR",
+      "carMake": "Aston Martin",
+      "carModel": "Corvette",
+      "carYear": 2015,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Sjjsvqn2nAnVthTz3Mkck",
+      "carMake": "Cadillac",
+      "carModel": "Camaro",
+      "carYear": 2020,
+      "previousOwner": true
+   },
+   {
+      "itemId": "8fzE5uHxexAYP2VSLkaOr",
+      "carMake": "Chevrolet",
+      "carModel": "Taurus",
+      "carYear": 1985,
+      "previousOwner": true
+   },
+   {
+      "itemId": "c-vm4yxAVAXHbIaR89j3i",
+      "carMake": "Audi",
+      "carModel": "Focus",
+      "carYear": 2005,
+      "previousOwner": true
+   },
+   {
+      "itemId": "PMJQDgXthwoqyqNrh3cvD",
+      "carMake": "Mini",
+      "carModel": "LeBaron",
+      "carYear": 2011,
+      "previousOwner": true
+   },
+   {
+      "itemId": "HnMrCG4jYticXSq2JlkxL",
+      "carMake": "Volkswagen",
+      "carModel": "Escalade",
+      "carYear": 1986,
+      "previousOwner": true
+   },
+   {
+      "itemId": "j8ENpTyuEZntVwndVIcaR",
+      "carMake": "Hyundai",
+      "carModel": "Sentra",
+      "carYear": 2019,
+      "previousOwner": true
+   },
+   {
+      "itemId": "AQiiqrJzvRQrckcLON7p8",
+      "carMake": "Mercedes Benz",
+      "carModel": "Beetle",
+      "carYear": 2023,
+      "previousOwner": true
+   },
+   {
+      "itemId": "5vz1PkPLZWe0eIy9CZaZl",
+      "carMake": "Mercedes Benz",
+      "carModel": "Escalade",
+      "carYear": 1989,
+      "previousOwner": false
+   },
+   {
+      "itemId": "JMRV_gmE6erQwFjPMi26U",
+      "carMake": "Chrysler",
+      "carModel": "El Camino",
+      "carYear": 1989,
+      "previousOwner": true
+   },
+   {
+      "itemId": "embaISE9276g5529K3isF",
+      "carMake": "Fiat",
+      "carModel": "1",
+      "carYear": 2007,
+      "previousOwner": true
+   },
+   {
+      "itemId": "YufSVVM1fe6S9jVVL9KPq",
+      "carMake": "Hyundai",
+      "carModel": "Expedition",
+      "carYear": 1996,
+      "previousOwner": false
+   },
+   {
+      "itemId": "FBMp4QL-sGGb5sYL9EILn",
+      "carMake": "Chrysler",
+      "carModel": "Camaro",
+      "carYear": 1971,
+      "previousOwner": false
+   },
+   {
+      "itemId": "0i_dP5zk_Vofpm3-8tfWk",
+      "carMake": "Volvo",
+      "carModel": "Mercielago",
+      "carYear": 2021,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Fa7uGvxeMkJdMsVW625Ma",
+      "carMake": "Ferrari",
+      "carModel": "Spyder",
+      "carYear": 2012,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Jdk32S3KStneW3QPdbY-E",
+      "carMake": "Ferrari",
+      "carModel": "CX-9",
+      "carYear": 2022,
+      "previousOwner": true
+   },
+   {
+      "itemId": "kGtOjmx-IwfbtbB_rbMb4",
+      "carMake": "Ford",
+      "carModel": "Accord",
+      "carYear": 1973,
+      "previousOwner": true
+   },
+   {
+      "itemId": "98t8bMebFh9OSBcjfq4bW",
+      "carMake": "Ford",
+      "carModel": "Jetta",
+      "carYear": 2010,
+      "previousOwner": false
+   },
+   {
+      "itemId": "iVuRObS8amxIURyYOgqt2",
+      "carMake": "Rolls Royce",
+      "carModel": "Taurus",
+      "carYear": 1973,
+      "previousOwner": true
+   },
+   {
+      "itemId": "KWhE5Pz9oW4FESYYL9vfk",
+      "carMake": "Ferrari",
+      "carModel": "LeBaron",
+      "carYear": 1970,
+      "previousOwner": false
+   },
+   {
+      "itemId": "7m7K9uee-mUd936P-phsW",
+      "carMake": "Jeep",
+      "carModel": "Altima",
+      "carYear": 2010,
+      "previousOwner": true
+   },
+   {
+      "itemId": "E6k3tBG-wHkSdMVVnWxko",
+      "carMake": "Chevrolet",
+      "carModel": "Impala",
+      "carYear": 2021,
+      "previousOwner": true
+   },
+   {
+      "itemId": "rgXSEi8ILoej19qmlr-i2",
+      "carMake": "Aston Martin",
+      "carModel": "Camry",
+      "carYear": 1976,
+      "previousOwner": false
+   },
+   {
+      "itemId": "bCRK0ag0HVyAAbMxwidXW",
+      "carMake": "Honda",
+      "carModel": "Prius",
+      "carYear": 1995,
+      "previousOwner": true
+   },
+   {
+      "itemId": "w8ehnVUm1dkK_UjuAC-ov",
+      "carMake": "Mercedes Benz",
+      "carModel": "Spyder",
+      "carYear": 1974,
+      "previousOwner": true
+   },
+   {
+      "itemId": "CdMyORiUh92Ii75-kEMC9",
+      "carMake": "Kia",
+      "carModel": "Durango",
+      "carYear": 1973,
+      "previousOwner": false
+   },
+   {
+      "itemId": "76BJA1copT_srqn59TZdY",
+      "carMake": "BMW",
+      "carModel": "Model X",
+      "carYear": 2011,
+      "previousOwner": false
+   },
+   {
+      "itemId": "X6_RA6EjqKpw7D0AtCaSj",
+      "carMake": "Ford",
+      "carModel": "Grand Cherokee",
+      "carYear": 1996,
+      "previousOwner": false
+   },
+   {
+      "itemId": "qePjyYZCPkms5zeAEY9EO",
+      "carMake": "Chevrolet",
+      "carModel": "1",
+      "carYear": 1971,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Be3MciCiODCJdyIqz0mY-",
+      "carMake": "Cadillac",
+      "carModel": "PT Cruiser",
+      "carYear": 1997,
+      "previousOwner": true
+   },
+   {
+      "itemId": "auO_Kdj7dwFOh_x7KOGyV",
+      "carMake": "Audi",
+      "carModel": "Malibu",
+      "carYear": 2020,
+      "previousOwner": false
+   },
+   {
+      "itemId": "iiRjV-4gON3COw2ne2ejC",
+      "carMake": "Ferrari",
+      "carModel": "Escalade",
+      "carYear": 2005,
+      "previousOwner": false
+   },
+   {
+      "itemId": "qvQrlFTfCZwU4T8Stvdzd",
+      "carMake": "Mazda",
+      "carModel": "A8",
+      "carYear": 1979,
+      "previousOwner": true
+   },
+   {
+      "itemId": "g1jfYJyX2AczIDp5Oh3-o",
+      "carMake": "Fiat",
+      "carModel": "Golf",
+      "carYear": 2015,
+      "previousOwner": true
+   },
+   {
+      "itemId": "M_B_WivqssUgWi1F8Nf4i",
+      "carMake": "Smart",
+      "carModel": "Corvette",
+      "carYear": 1996,
+      "previousOwner": true
+   },
+   {
+      "itemId": "wXHAD4drI6QuCvl1_9c85",
+      "carMake": "Audi",
+      "carModel": "Alpine",
+      "carYear": 1992,
+      "previousOwner": true
+   },
+   {
+      "itemId": "xw2lTEO90sPFLQD2N79nV",
+      "carMake": "Nissan",
+      "carModel": "Civic",
+      "carYear": 1994,
+      "previousOwner": true
+   },
+   {
+      "itemId": "3VCC2mLLCZwKtkFA5dYBf",
+      "carMake": "Ford",
+      "carModel": "Silverado",
+      "carYear": 1998,
+      "previousOwner": true
+   },
+   {
+      "itemId": "eNvDB3m5RyV3Xn-vog_qK",
+      "carMake": "Maserati",
+      "carModel": "CTS",
+      "carYear": 1988,
+      "previousOwner": true
+   },
+   {
+      "itemId": "dHY3FyM26YWLC0F7IHELa",
+      "carMake": "Land Rover",
+      "carModel": "Silverado",
+      "carYear": 2001,
+      "previousOwner": false
+   },
+   {
+      "itemId": "AbseXt0s-H5yK_wImM1uo",
+      "carMake": "BMW",
+      "carModel": "Cruze",
+      "carYear": 2014,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Ddz4SCu9zvblGfeI6DmOj",
+      "carMake": "Land Rover",
+      "carModel": "Model T",
+      "carYear": 1991,
+      "previousOwner": true
+   },
+   {
+      "itemId": "wqKR_FPXqv5Z5q3xLpRpk",
+      "carMake": "Mazda",
+      "carModel": "Malibu",
+      "carYear": 2008,
+      "previousOwner": true
+   },
+   {
+      "itemId": "rgF_B1efIf3vLaaU8MhWt",
+      "carMake": "Kia",
+      "carModel": "Camry",
+      "carYear": 2018,
+      "previousOwner": false
+   },
+   {
+      "itemId": "vyPd8llh33rns79RlIRAs",
+      "carMake": "Kia",
+      "carModel": "Aventador",
+      "carYear": 1984,
+      "previousOwner": false
+   },
+   {
+      "itemId": "fp_M30QH0gluTQRxBFr27",
+      "carMake": "Tesla",
+      "carModel": "Grand Cherokee",
+      "carYear": 1983,
+      "previousOwner": false
+   },
+   {
+      "itemId": "tyfx6zeHbLldOlPWazBj-",
+      "carMake": "Bugatti",
+      "carModel": "Beetle",
+      "carYear": 1995,
+      "previousOwner": false
+   },
+   {
+      "itemId": "J0fXAERZx_5F8Vy5Pe1NT",
+      "carMake": "Ford",
+      "carModel": "Model X",
+      "carYear": 1981,
+      "previousOwner": true
+   },
+   {
+      "itemId": "E8XrTMHyE18jC4uaVelhM",
+      "carMake": "Toyota",
+      "carModel": "Ranchero",
+      "carYear": 1982,
+      "previousOwner": true
+   },
+   {
+      "itemId": "LN1WlOsKHz14M4b7nJKQS",
+      "carMake": "Mini",
+      "carModel": "Silverado",
+      "carYear": 2015,
+      "previousOwner": false
+   },
+   {
+      "itemId": "OpbEDbJDY02c4_5TCvnA8",
+      "carMake": "Hyundai",
+      "carModel": "Sentra",
+      "carYear": 2012,
+      "previousOwner": true
+   },
+   {
+      "itemId": "32gTlVRXoDmW6nWeOmTn8",
+      "carMake": "Polestar",
+      "carModel": "Ranchero",
+      "carYear": 2009,
+      "previousOwner": true
+   },
+   {
+      "itemId": "iI6sPGFhP3V-sDZewRHQ3",
+      "carMake": "Nissan",
+      "carModel": "Sentra",
+      "carYear": 2007,
+      "previousOwner": false
+   },
+   {
+      "itemId": "8YV2h80InVTpa2CaapX_F",
+      "carMake": "Land Rover",
+      "carModel": "1",
+      "carYear": 1976,
+      "previousOwner": true
+   },
+   {
+      "itemId": "oiaBxGFQvOIGTWZfyRT2Q",
+      "carMake": "Honda",
+      "carModel": "Beetle",
+      "carYear": 2005,
+      "previousOwner": false
+   },
+   {
+      "itemId": "VS6A5EJqvpmzV2umbpa12",
+      "carMake": "Kia",
+      "carModel": "A4",
+      "carYear": 2012,
+      "previousOwner": false
+   },
+   {
+      "itemId": "4plLHrF_kIlI3XCgzGwSt",
+      "carMake": "Fiat",
+      "carModel": "Malibu",
+      "carYear": 1970,
+      "previousOwner": false
+   },
+   {
+      "itemId": "PdgCnY2dX4Zu11m_6TF0X",
+      "carMake": "Audi",
+      "carModel": "El Camino",
+      "carYear": 2011,
+      "previousOwner": false
+   },
+   {
+      "itemId": "V8X8dBQC8AXqluvck8piY",
+      "carMake": "Volkswagen",
+      "carModel": "Civic",
+      "carYear": 1989,
+      "previousOwner": true
+   },
+   {
+      "itemId": "-nFPLSGgrewTejAyj5XJi",
+      "carMake": "Lamborghini",
+      "carModel": "Grand Caravan",
+      "carYear": 1984,
+      "previousOwner": true
+   },
+   {
+      "itemId": "rFLODtGrbBX3KzfUIcYbu",
+      "carMake": "Audi",
+      "carModel": "Alpine",
+      "carYear": 1989,
+      "previousOwner": false
+   },
+   {
+      "itemId": "OYImqlVLhvvAnSURFzCxS",
+      "carMake": "Audi",
+      "carModel": "2",
+      "carYear": 1980,
+      "previousOwner": false
+   },
+   {
+      "itemId": "RI3Hio0Uu5lTReNQV09vZ",
+      "carMake": "Dodge",
+      "carModel": "CX-9",
+      "carYear": 2007,
+      "previousOwner": false
+   },
+   {
+      "itemId": "hZYQgJzTu2B-pky528-jf",
+      "carMake": "Maserati",
+      "carModel": "Camaro",
+      "carYear": 1971,
+      "previousOwner": true
+   },
+   {
+      "itemId": "SVqh7xwT8aJrsOfFX5MCf",
+      "carMake": "Ford",
+      "carModel": "Malibu",
+      "carYear": 2008,
+      "previousOwner": true
+   },
+   {
+      "itemId": "RtRU3sViZbr33yVluyom_",
+      "carMake": "Porsche",
+      "carModel": "Prius",
+      "carYear": 2018,
+      "previousOwner": false
+   },
+   {
+      "itemId": "vuCSMYc8UkwwLzoypKtiw",
+      "carMake": "Volkswagen",
+      "carModel": "Fiesta",
+      "carYear": 1983,
+      "previousOwner": false
+   },
+   {
+      "itemId": "3reHXIMJMWfRyuFU8dq8o",
+      "carMake": "Jeep",
+      "carModel": "Corvette",
+      "carYear": 1983,
+      "previousOwner": false
+   },
+   {
+      "itemId": "kHwj6GlCXKk-9XMXfRYlq",
+      "carMake": "Jaguar",
+      "carModel": "Model 3",
+      "carYear": 2020,
+      "previousOwner": true
+   },
+   {
+      "itemId": "sXpQXlTEllf88k0Y2Ksjq",
+      "carMake": "Nissan",
+      "carModel": "Camry",
+      "carYear": 2021,
+      "previousOwner": true
+   },
+   {
+      "itemId": "I98wJuoFNQZ_-AfpPHeXt",
+      "carMake": "Fiat",
+      "carModel": "2",
+      "carYear": 2003,
+      "previousOwner": false
+   },
+   {
+      "itemId": "BQ2uAYwyU0CR7MOhJD9HE",
+      "carMake": "Volvo",
+      "carModel": "El Camino",
+      "carYear": 2003,
+      "previousOwner": true
+   },
+   {
+      "itemId": "awDyhm85Orh4lp3jsrVca",
+      "carMake": "Audi",
+      "carModel": "Altima",
+      "carYear": 2003,
+      "previousOwner": true
+   },
+   {
+      "itemId": "AGVZwWHgNOyvTXO8EB0FF",
+      "carMake": "Cadillac",
+      "carModel": "XTS",
+      "carYear": 1971,
+      "previousOwner": true
+   },
+   {
+      "itemId": "zxLXw83Ip7oLNVC2CziYo",
+      "carMake": "Nissan",
+      "carModel": "Countach",
+      "carYear": 1973,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Rfqz5OZeV_9_8vNsWHac_",
+      "carMake": "Mini",
+      "carModel": "Mercielago",
+      "carYear": 2021,
+      "previousOwner": true
+   },
+   {
+      "itemId": "AcTMbMPSuUFV_ijPY0k8V",
+      "carMake": "Jaguar",
+      "carModel": "Beetle",
+      "carYear": 1985,
+      "previousOwner": true
+   },
+   {
+      "itemId": "y66gq9LkiSI46SOHkjQZ7",
+      "carMake": "Toyota",
+      "carModel": "2",
+      "carYear": 2007,
+      "previousOwner": false
+   },
+   {
+      "itemId": "R0kmk1xbGvRqgPg489tMb",
+      "carMake": "Aston Martin",
+      "carModel": "Beetle",
+      "carYear": 1981,
+      "previousOwner": false
+   },
+   {
+      "itemId": "L45T--bmqmEtUuZKostx_",
+      "carMake": "Mercedes Benz",
+      "carModel": "Model Y",
+      "carYear": 1987,
+      "previousOwner": true
+   },
+   {
+      "itemId": "O178M4X_tqfuQqrYvxRk7",
+      "carMake": "Mercedes Benz",
+      "carModel": "Mercielago",
+      "carYear": 1973,
+      "previousOwner": true
+   },
+   {
+      "itemId": "V6EguDPa6ZJeVGpiFtbJp",
+      "carMake": "Porsche",
+      "carModel": "Model Y",
+      "carYear": 2020,
+      "previousOwner": false
+   },
+   {
+      "itemId": "pg3AeP8VygS-BqFWifVa_",
+      "carMake": "Honda",
+      "carModel": "Wrangler",
+      "carYear": 2010,
+      "previousOwner": false
+   },
+   {
+      "itemId": "iIy52Ni1TSNgUhh5bT-b3",
+      "carMake": "Bentley",
+      "carModel": "Fortwo",
+      "carYear": 2008,
+      "previousOwner": false
+   },
+   {
+      "itemId": "5NUbbt1XivQytIBVsL2HE",
+      "carMake": "Tesla",
+      "carModel": "XC90",
+      "carYear": 2022,
+      "previousOwner": false
+   },
+   {
+      "itemId": "JdcVjHaL_4ZteuJCWily5",
+      "carMake": "Aston Martin",
+      "carModel": "El Camino",
+      "carYear": 2020,
+      "previousOwner": true
+   },
+   {
+      "itemId": "xyKWkD3YVcFtjAgmUAi7x",
+      "carMake": "Volkswagen",
+      "carModel": "CTS",
+      "carYear": 2012,
+      "previousOwner": false
+   },
+   {
+      "itemId": "ENc9TZhXwgz0yzoFL9Nd6",
+      "carMake": "Hyundai",
+      "carModel": "V90",
+      "carYear": 1995,
+      "previousOwner": false
+   },
+   {
+      "itemId": "w5ldVLWaEnJh0uurooD7T",
+      "carMake": "Mercedes Benz",
+      "carModel": "1",
+      "carYear": 1970,
+      "previousOwner": true
+   },
+   {
+      "itemId": "LLTar5nq8bxXw8I17NFD3",
+      "carMake": "Fiat",
+      "carModel": "Sentra",
+      "carYear": 2009,
+      "previousOwner": true
+   },
+   {
+      "itemId": "choABTo6kjS4EB65k_a25",
+      "carMake": "Rolls Royce",
+      "carModel": "Fiesta",
+      "carYear": 1971,
+      "previousOwner": true
+   },
+   {
+      "itemId": "R6KhUfi4QDa-99GwDngdJ",
+      "carMake": "BMW",
+      "carModel": "Fortwo",
+      "carYear": 1999,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Co55hnEGlCmZppaMsNtVW",
+      "carMake": "Chrysler",
+      "carModel": "Challenger",
+      "carYear": 2010,
+      "previousOwner": true
+   },
+   {
+      "itemId": "lUWDFx2oyD_Scm8oL4Tll",
+      "carMake": "Nissan",
+      "carModel": "1",
+      "carYear": 2000,
+      "previousOwner": true
+   },
+   {
+      "itemId": "w3LnHjFAfGJf6sNPRN16Q",
+      "carMake": "Aston Martin",
+      "carModel": "Durango",
+      "carYear": 1993,
+      "previousOwner": false
+   },
+   {
+      "itemId": "OO8dt8eKOJARHvgqaBDve",
+      "carMake": "BMW",
+      "carModel": "Wrangler",
+      "carYear": 2010,
+      "previousOwner": true
+   },
+   {
+      "itemId": "xl8p-ze2KH_aQ6s2x-nee",
+      "carMake": "Smart",
+      "carModel": "Fortwo",
+      "carYear": 2009,
+      "previousOwner": true
+   },
+   {
+      "itemId": "3aqUfirHZyChu4EDioomi",
+      "carMake": "Porsche",
+      "carModel": "1",
+      "carYear": 1972,
+      "previousOwner": false
+   },
+   {
+      "itemId": "7_0nVQCeyDyZzUH53oj2h",
+      "carMake": "Porsche",
+      "carModel": "Fiesta",
+      "carYear": 2000,
+      "previousOwner": true
+   },
+   {
+      "itemId": "wrwOqo6_VetJFYLwvCTgi",
+      "carMake": "Land Rover",
+      "carModel": "Taurus",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "G_SGWF7hoEeeIRO82JElG",
+      "carMake": "Jeep",
+      "carModel": "Jetta",
+      "carYear": 2016,
+      "previousOwner": true
+   },
+   {
+      "itemId": "dUMYfXz4qv8PlPuR9LBUd",
+      "carMake": "Chevrolet",
+      "carModel": "Cruze",
+      "carYear": 1997,
+      "previousOwner": false
+   },
+   {
+      "itemId": "YijeoDAq4OOaMEjARfv5p",
+      "carMake": "Ferrari",
+      "carModel": "Challenger",
+      "carYear": 1970,
+      "previousOwner": false
+   },
+   {
+      "itemId": "pq_N_0zggEobuknJqB-Uu",
+      "carMake": "Hyundai",
+      "carModel": "V90",
+      "carYear": 1995,
+      "previousOwner": false
+   },
+   {
+      "itemId": "GQ_pOtm1G2Y8vlsyxTgms",
+      "carMake": "Mercedes Benz",
+      "carModel": "Golf",
+      "carYear": 1998,
+      "previousOwner": true
+   },
+   {
+      "itemId": "KDvt4oVuoE5tKqGRHhSjd",
+      "carMake": "Hyundai",
+      "carModel": "Corvette",
+      "carYear": 1996,
+      "previousOwner": false
+   },
+   {
+      "itemId": "q6k5B-BwdzgWG8mD82E6q",
+      "carMake": "Porsche",
+      "carModel": "Golf",
+      "carYear": 1979,
+      "previousOwner": false
+   },
+   {
+      "itemId": "0Av_w3s_3LIQKusYGjvVe",
+      "carMake": "Tesla",
+      "carModel": "PT Cruiser",
+      "carYear": 2005,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Ed4A9ccfPHCLIyryvCt-F",
+      "carMake": "Volkswagen",
+      "carModel": "Aventador",
+      "carYear": 1997,
+      "previousOwner": true
+   },
+   {
+      "itemId": "qAPH-vhumutFhJt65YYIm",
+      "carMake": "Mercedes Benz",
+      "carModel": "Malibu",
+      "carYear": 2005,
+      "previousOwner": false
+   },
+   {
+      "itemId": "gwwnpH6inZWP54y5BjQ4x",
+      "carMake": "Ford",
+      "carModel": "Aventador",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "8YPLUapoTq8kFcssXaR9o",
+      "carMake": "Kia",
+      "carModel": "Roadster",
+      "carYear": 1974,
+      "previousOwner": false
+   },
+   {
+      "itemId": "oQGXfvL7lFCwTunnyOgZ5",
+      "carMake": "Nissan",
+      "carModel": "A4",
+      "carYear": 1993,
+      "previousOwner": true
+   },
+   {
+      "itemId": "xdJEpwDLXb4VZ1RFvq6GT",
+      "carMake": "Hyundai",
+      "carModel": "Colorado",
+      "carYear": 1988,
+      "previousOwner": true
+   },
+   {
+      "itemId": "mJ7S1imbOOTLb_lkrHx0m",
+      "carMake": "Polestar",
+      "carModel": "Malibu",
+      "carYear": 1975,
+      "previousOwner": false
+   },
+   {
+      "itemId": "f_08rQXVL-K1Sdk8SetaL",
+      "carMake": "Volvo",
+      "carModel": "Grand Caravan",
+      "carYear": 2020,
+      "previousOwner": true
+   },
+   {
+      "itemId": "TKtZ1sbaB1aFq-qqumHgt",
+      "carMake": "Kia",
+      "carModel": "911",
+      "carYear": 2013,
+      "previousOwner": false
+   },
+   {
+      "itemId": "GC5nZ5TB_km-wofRf1SwE",
+      "carMake": "Fiat",
+      "carModel": "Countach",
+      "carYear": 2006,
+      "previousOwner": true
+   },
+   {
+      "itemId": "2rBr3k4V9U9o97kZIhD4H",
+      "carMake": "Volvo",
+      "carModel": "Model X",
+      "carYear": 1983,
+      "previousOwner": false
+   },
+   {
+      "itemId": "98SDNekcNVGgCaTxJXUYw",
+      "carMake": "BMW",
+      "carModel": "Taurus",
+      "carYear": 2000,
+      "previousOwner": true
+   },
+   {
+      "itemId": "GPL7cvWk4EDXFqAb4ZhyR",
+      "carMake": "Mercedes Benz",
+      "carModel": "Model Y",
+      "carYear": 2018,
+      "previousOwner": true
+   },
+   {
+      "itemId": "JjleY0iXekRdBxRyI6v5a",
+      "carMake": "Bugatti",
+      "carModel": "Altima",
+      "carYear": 2011,
+      "previousOwner": true
+   },
+   {
+      "itemId": "6E2kKS9JLHsrXEmlBjl8J",
+      "carMake": "Dodge",
+      "carModel": "Cruze",
+      "carYear": 2008,
+      "previousOwner": true
+   },
+   {
+      "itemId": "ZCHktL6VfQ182T8oVeLZ4",
+      "carMake": "Volvo",
+      "carModel": "V90",
+      "carYear": 1981,
+      "previousOwner": true
+   },
+   {
+      "itemId": "8D6LiEKSFOob93jRue4QZ",
+      "carMake": "Rolls Royce",
+      "carModel": "Model S",
+      "carYear": 2007,
+      "previousOwner": true
+   },
+   {
+      "itemId": "WaFvQBh84n6M_WuATXPHS",
+      "carMake": "Honda",
+      "carModel": "Volt",
+      "carYear": 2015,
+      "previousOwner": true
+   },
+   {
+      "itemId": "4sTEcChkOn9XqCY952KKB",
+      "carMake": "Jeep",
+      "carModel": "LeBaron",
+      "carYear": 1997,
+      "previousOwner": true
+   },
+   {
+      "itemId": "CosOrJFTYBUYWzZKZgIiR",
+      "carMake": "Mazda",
+      "carModel": "Golf",
+      "carYear": 1984,
+      "previousOwner": true
+   },
+   {
+      "itemId": "V1O8X8kRWYSycfKv6Kkd5",
+      "carMake": "Tesla",
+      "carModel": "Beetle",
+      "carYear": 1971,
+      "previousOwner": false
+   },
+   {
+      "itemId": "jnawKDnRveKruKpqpbpso",
+      "carMake": "Mercedes Benz",
+      "carModel": "Model S",
+      "carYear": 1990,
+      "previousOwner": true
+   },
+   {
+      "itemId": "JCs5wMhXd_ShdVL-c2YYw",
+      "carMake": "Volvo",
+      "carModel": "Jetta",
+      "carYear": 2022,
+      "previousOwner": true
+   },
+   {
+      "itemId": "5pfpYO8yAyntkBowa0VhR",
+      "carMake": "Nissan",
+      "carModel": "V90",
+      "carYear": 2008,
+      "previousOwner": true
+   },
+   {
+      "itemId": "-J3jGrBYnhrTijwyTEkhe",
+      "carMake": "Dodge",
+      "carModel": "A4",
+      "carYear": 1977,
+      "previousOwner": true
+   },
+   {
+      "itemId": "CtsVUYG_yHnGo2mJ8TZOL",
+      "carMake": "Polestar",
+      "carModel": "Golf",
+      "carYear": 2020,
+      "previousOwner": true
+   },
+   {
+      "itemId": "XQXMQcLL53DoUDPVxSg2H",
+      "carMake": "BMW",
+      "carModel": "Cruze",
+      "carYear": 2011,
+      "previousOwner": true
+   },
+   {
+      "itemId": "9MrUoFo0M18tg_ZZCxays",
+      "carMake": "Tesla",
+      "carModel": "Land Cruiser",
+      "carYear": 2022,
+      "previousOwner": false
+   },
+   {
+      "itemId": "-slS3GNCKOdiuktadWM_W",
+      "carMake": "Smart",
+      "carModel": "Wrangler",
+      "carYear": 1971,
+      "previousOwner": false
+   },
+   {
+      "itemId": "va-7UU2P-R3n2nWfqnJjT",
+      "carMake": "Volvo",
+      "carModel": "Accord",
+      "carYear": 1972,
+      "previousOwner": true
+   },
+   {
+      "itemId": "PQLx10jMsh8HlAd_m3AyP",
+      "carMake": "Polestar",
+      "carModel": "Mercielago",
+      "carYear": 1987,
+      "previousOwner": false
+   },
+   {
+      "itemId": "KEDggx26kdAg7ltU43ADn",
+      "carMake": "Smart",
+      "carModel": "911",
+      "carYear": 1993,
+      "previousOwner": true
+   },
+   {
+      "itemId": "7swChk7iEzJSEd0e0zRWX",
+      "carMake": "Volkswagen",
+      "carModel": "Alpine",
+      "carYear": 1977,
+      "previousOwner": false
+   },
+   {
+      "itemId": "GEDFPyHdR97tooq1a21bu",
+      "carMake": "Audi",
+      "carModel": "Colorado",
+      "carYear": 1975,
+      "previousOwner": false
+   },
+   {
+      "itemId": "HnaOx4u0tVHdkLAmzCP93",
+      "carMake": "Ford",
+      "carModel": "Camry",
+      "carYear": 1971,
+      "previousOwner": false
+   },
+   {
+      "itemId": "-lVm79Hf4ni0UpewOrRIH",
+      "carMake": "Toyota",
+      "carModel": "Impala",
+      "carYear": 2018,
+      "previousOwner": false
+   },
+   {
+      "itemId": "3NJ3ihaZShFqYb4Vamgen",
+      "carMake": "Land Rover",
+      "carModel": "LeBaron",
+      "carYear": 2001,
+      "previousOwner": true
+   },
+   {
+      "itemId": "4aMYs7I-dGJz9TeC_ew_I",
+      "carMake": "Volvo",
+      "carModel": "Beetle",
+      "carYear": 2016,
+      "previousOwner": false
+   },
+   {
+      "itemId": "DtuHOpsHBxjS3_jMovyMb",
+      "carMake": "Bugatti",
+      "carModel": "Corvette",
+      "carYear": 1989,
+      "previousOwner": false
+   },
+   {
+      "itemId": "04RRp-8b-BZqMCwbClnBX",
+      "carMake": "Jeep",
+      "carModel": "V90",
+      "carYear": 1992,
+      "previousOwner": true
+   },
+   {
+      "itemId": "sqVY0NaBxaPr2aUR3NUVZ",
+      "carMake": "Volvo",
+      "carModel": "Wrangler",
+      "carYear": 1986,
+      "previousOwner": true
+   },
+   {
+      "itemId": "tV65zf8eCdw7vBjYyWRnP",
+      "carMake": "Bugatti",
+      "carModel": "Colorado",
+      "carYear": 1993,
+      "previousOwner": false
+   },
+   {
+      "itemId": "HZlgxKXnq818s-KH5DqHT",
+      "carMake": "Kia",
+      "carModel": "2",
+      "carYear": 2011,
+      "previousOwner": false
+   },
+   {
+      "itemId": "56MDJp0A8icbjAyZ4jz2W",
+      "carMake": "Bentley",
+      "carModel": "Focus",
+      "carYear": 2005,
+      "previousOwner": true
+   },
+   {
+      "itemId": "ghkTf29uel_CC5kWeOze4",
+      "carMake": "Mini",
+      "carModel": "Grand Cherokee",
+      "carYear": 1992,
+      "previousOwner": false
+   },
+   {
+      "itemId": "wEyPYJwEvZ_8m2XL_Eed8",
+      "carMake": "Fiat",
+      "carModel": "A4",
+      "carYear": 1998,
+      "previousOwner": false
+   },
+   {
+      "itemId": "J8GfaOJL4cXQMK17WEtmq",
+      "carMake": "Volvo",
+      "carModel": "Wrangler",
+      "carYear": 2000,
+      "previousOwner": true
+   },
+   {
+      "itemId": "WT4U0nsdm6q89e8FaiO0i",
+      "carMake": "Volvo",
+      "carModel": "Ranchero",
+      "carYear": 1977,
+      "previousOwner": false
+   },
+   {
+      "itemId": "6X94tE2B6D999k4LYvq2z",
+      "carMake": "Tesla",
+      "carModel": "Corvette",
+      "carYear": 2009,
+      "previousOwner": false
+   },
+   {
+      "itemId": "ZlHPFBpc5sOpfbC8IycFq",
+      "carMake": "BMW",
+      "carModel": "XC90",
+      "carYear": 2005,
+      "previousOwner": true
+   },
+   {
+      "itemId": "JNilC0GdkXBPvC4YI7kFH",
+      "carMake": "Bugatti",
+      "carModel": "Camry",
+      "carYear": 2020,
+      "previousOwner": true
+   },
+   {
+      "itemId": "R2SKCNIT0kt0SEIYtUobB",
+      "carMake": "Mazda",
+      "carModel": "Grand Cherokee",
+      "carYear": 1988,
+      "previousOwner": true
+   },
+   {
+      "itemId": "jPlQ7m4iFCSznaZspafgs",
+      "carMake": "Jeep",
+      "carModel": "Mercielago",
+      "carYear": 1983,
+      "previousOwner": false
+   },
+   {
+      "itemId": "yhXArBxZBpuo0W3xOFXfG",
+      "carMake": "Volvo",
+      "carModel": "CX-9",
+      "carYear": 1974,
+      "previousOwner": false
+   },
+   {
+      "itemId": "0F-JbUWruWB_yKBbJHu30",
+      "carMake": "Ford",
+      "carModel": "Altima",
+      "carYear": 1983,
+      "previousOwner": true
+   },
+   {
+      "itemId": "KkTLAxlCz5gemoMU5cYmm",
+      "carMake": "Maserati",
+      "carModel": "Altima",
+      "carYear": 2002,
+      "previousOwner": false
+   },
+   {
+      "itemId": "5D2Zka2n05VF1IGnEKYg-",
+      "carMake": "Kia",
+      "carModel": "Escalade",
+      "carYear": 2015,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Gi8P_IHEIqW_z8KTWVyNl",
+      "carMake": "Volkswagen",
+      "carModel": "Accord",
+      "carYear": 1988,
+      "previousOwner": true
+   },
+   {
+      "itemId": "eilZm1YX7FUPqgK3RX_T-",
+      "carMake": "BMW",
+      "carModel": "911",
+      "carYear": 2006,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Fph0vNzmevFYIAfPHBS4P",
+      "carMake": "Dodge",
+      "carModel": "1",
+      "carYear": 2004,
+      "previousOwner": true
+   },
+   {
+      "itemId": "38KZAcMH--CVQDPoDnrV5",
+      "carMake": "Mini",
+      "carModel": "Taurus",
+      "carYear": 2003,
+      "previousOwner": true
+   },
+   {
+      "itemId": "z3DH9Txypst-JdjjHdOUR",
+      "carMake": "Dodge",
+      "carModel": "LeBaron",
+      "carYear": 1974,
+      "previousOwner": false
+   },
+   {
+      "itemId": "uAVptGWJ7RY2nnVpt3lj1",
+      "carMake": "Polestar",
+      "carModel": "Taurus",
+      "carYear": 1971,
+      "previousOwner": false
+   },
+   {
+      "itemId": "KOlGFeLxz-ai_X-J__WNZ",
+      "carMake": "Audi",
+      "carModel": "Mustang",
+      "carYear": 1979,
+      "previousOwner": true
+   },
+   {
+      "itemId": "gEAQajAcyNPRGwAlZIP2h",
+      "carMake": "Porsche",
+      "carModel": "El Camino",
+      "carYear": 1970,
+      "previousOwner": true
+   },
+   {
+      "itemId": "iR3y0GhpEY7Ue4_POsUS0",
+      "carMake": "Volkswagen",
+      "carModel": "911",
+      "carYear": 1980,
+      "previousOwner": false
+   },
+   {
+      "itemId": "7kXLyPOy4nG_sA0rh9_ya",
+      "carMake": "Aston Martin",
+      "carModel": "Grand Cherokee",
+      "carYear": 1996,
+      "previousOwner": false
+   },
+   {
+      "itemId": "QoSwzKGq07vQU3liv2kXw",
+      "carMake": "Porsche",
+      "carModel": "F-150",
+      "carYear": 1982,
+      "previousOwner": true
+   },
+   {
+      "itemId": "K8wZ5BuMTDwWPuTWgoVoW",
+      "carMake": "BMW",
+      "carModel": "Land Cruiser",
+      "carYear": 1998,
+      "previousOwner": false
+   },
+   {
+      "itemId": "xuSnozdub6qrk7zDZuDSb",
+      "carMake": "Bugatti",
+      "carModel": "Colorado",
+      "carYear": 1996,
+      "previousOwner": true
+   },
+   {
+      "itemId": "BV4shRecVxAY6Flkn-e92",
+      "carMake": "Aston Martin",
+      "carModel": "Wrangler",
+      "carYear": 2016,
+      "previousOwner": true
+   },
+   {
+      "itemId": "rFRPYjjIuQConzfxJsKSg",
+      "carMake": "Aston Martin",
+      "carModel": "CX-9",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "HpV8bVW8V-CgvOShlrGfx",
+      "carMake": "Land Rover",
+      "carModel": "Jetta",
+      "carYear": 1989,
+      "previousOwner": true
+   },
+   {
+      "itemId": "9BsWsk19dk3Hw5P6ywOeR",
+      "carMake": "Ferrari",
+      "carModel": "V90",
+      "carYear": 2012,
+      "previousOwner": false
+   },
+   {
+      "itemId": "gi-A4_kfEir5M01YmflRx",
+      "carMake": "Lamborghini",
+      "carModel": "CX-9",
+      "carYear": 1983,
+      "previousOwner": true
+   },
+   {
+      "itemId": "W0cOQN2d03MmXFmTNSwEH",
+      "carMake": "Smart",
+      "carModel": "Mustang",
+      "carYear": 1983,
+      "previousOwner": true
+   },
+   {
+      "itemId": "OmhmbHL7K9PirG4w0WDKf",
+      "carMake": "Bugatti",
+      "carModel": "El Camino",
+      "carYear": 2014,
+      "previousOwner": true
+   },
+   {
+      "itemId": "6HCXlPOQFXkRlYVPp_tFE",
+      "carMake": "Volvo",
+      "carModel": "Grand Cherokee",
+      "carYear": 2008,
+      "previousOwner": true
+   },
+   {
+      "itemId": "oj6QT_XHCsT0FhJU9V_-N",
+      "carMake": "Honda",
+      "carModel": "A8",
+      "carYear": 1991,
+      "previousOwner": false
+   },
+   {
+      "itemId": "XwBswMUYwgSQxTa-wSWNr",
+      "carMake": "Tesla",
+      "carModel": "Malibu",
+      "carYear": 1993,
+      "previousOwner": true
+   },
+   {
+      "itemId": "diZH8bJTxLOz6vSal4I2s",
+      "carMake": "Volvo",
+      "carModel": "Model X",
+      "carYear": 2010,
+      "previousOwner": false
+   },
+   {
+      "itemId": "EeYZN2gHknL5lRsM6g5SR",
+      "carMake": "Polestar",
+      "carModel": "Camry",
+      "carYear": 2022,
+      "previousOwner": false
+   },
+   {
+      "itemId": "8tW36-yLInqLBOV5GjUu2",
+      "carMake": "Jaguar",
+      "carModel": "Fortwo",
+      "carYear": 1981,
+      "previousOwner": true
+   },
+   {
+      "itemId": "8QeNcH8cTFB8u4W7XdoGX",
+      "carMake": "Maserati",
+      "carModel": "2",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "dYevdavdWnHX36kmqWxWl",
+      "carMake": "Mercedes Benz",
+      "carModel": "XTS",
+      "carYear": 2008,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Oa8kPEEXqCYEEo6Nr9gKd",
+      "carMake": "Porsche",
+      "carModel": "1",
+      "carYear": 1994,
+      "previousOwner": false
+   },
+   {
+      "itemId": "USppOnEsuppyIFGySoolb",
+      "carMake": "Lamborghini",
+      "carModel": "LeBaron",
+      "carYear": 1972,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Xnq8nN2fyr1vPWBSCCjrx",
+      "carMake": "Tesla",
+      "carModel": "Model 3",
+      "carYear": 2004,
+      "previousOwner": true
+   },
+   {
+      "itemId": "_je9ZIp5mMT0qoaKlU_XE",
+      "carMake": "Bentley",
+      "carModel": "1",
+      "carYear": 1989,
+      "previousOwner": true
+   },
+   {
+      "itemId": "l8SoNKWwyR8SMARNSU_aF",
+      "carMake": "Mini",
+      "carModel": "Fortwo",
+      "carYear": 1977,
+      "previousOwner": true
+   },
+   {
+      "itemId": "muXP5KQh7JC-6WNg2X29C",
+      "carMake": "Kia",
+      "carModel": "F-150",
+      "carYear": 2016,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Jjoy31AU_ZnAQjTPg6PRT",
+      "carMake": "Mercedes Benz",
+      "carModel": "A8",
+      "carYear": 1994,
+      "previousOwner": false
+   },
+   {
+      "itemId": "jV5WLCxxbLUbyD6286Ug5",
+      "carMake": "Jeep",
+      "carModel": "Malibu",
+      "carYear": 2012,
+      "previousOwner": true
+   },
+   {
+      "itemId": "BPISbj7XZ8J6dO5TdGTpx",
+      "carMake": "BMW",
+      "carModel": "Prius",
+      "carYear": 1998,
+      "previousOwner": false
+   },
+   {
+      "itemId": "0fLbq04aWlR3kygsP2AyI",
+      "carMake": "Land Rover",
+      "carModel": "Altima",
+      "carYear": 1987,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Q4Pr57c4mdidbUntQB-FW",
+      "carMake": "Bentley",
+      "carModel": "911",
+      "carYear": 2013,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Q9QL9wclTTZgIq0s9PxVY",
+      "carMake": "Volkswagen",
+      "carModel": "Corvette",
+      "carYear": 2014,
+      "previousOwner": true
+   },
+   {
+      "itemId": "_EcyRPp4x4Pq_9nx-2XvB",
+      "carMake": "Jeep",
+      "carModel": "Civic",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "zcfl3-HWSEm8UFVVJt2Zh",
+      "carMake": "Nissan",
+      "carModel": "Impala",
+      "carYear": 1977,
+      "previousOwner": true
+   },
+   {
+      "itemId": "WL3_U_shjaZrMAJLAOvlT",
+      "carMake": "Aston Martin",
+      "carModel": "Sentra",
+      "carYear": 1993,
+      "previousOwner": true
+   },
+   {
+      "itemId": "PjLYoJ9V9zFgB8bN-Qh0g",
+      "carMake": "Aston Martin",
+      "carModel": "Model S",
+      "carYear": 2002,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Rhb6q6SQwgic4Or_wSoEx",
+      "carMake": "Mini",
+      "carModel": "Golf",
+      "carYear": 2010,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Ac5iiy0-qN-7m7V5M3ldV",
+      "carMake": "Ferrari",
+      "carModel": "Durango",
+      "carYear": 1981,
+      "previousOwner": true
+   },
+   {
+      "itemId": "F1GHAxC9mnnw7qIYefYc7",
+      "carMake": "Mini",
+      "carModel": "Camaro",
+      "carYear": 1975,
+      "previousOwner": false
+   },
+   {
+      "itemId": "C-o2rHXYPKGvcb1ayW1kD",
+      "carMake": "Mazda",
+      "carModel": "Spyder",
+      "carYear": 1974,
+      "previousOwner": false
+   },
+   {
+      "itemId": "TvBiPPIQuNaLknNve-inR",
+      "carMake": "Rolls Royce",
+      "carModel": "Model 3",
+      "carYear": 1997,
+      "previousOwner": true
+   },
+   {
+      "itemId": "UTLc5ghxcmE4Z4tPGny8Y",
+      "carMake": "Bentley",
+      "carModel": "ATS",
+      "carYear": 1972,
+      "previousOwner": false
+   },
+   {
+      "itemId": "wq5td85A-0reK-fEaHfPF",
+      "carMake": "Fiat",
+      "carModel": "ATS",
+      "carYear": 1993,
+      "previousOwner": true
+   },
+   {
+      "itemId": "BUkiv5c1x8fFG-OI0Zk7d",
+      "carMake": "Smart",
+      "carModel": "ATS",
+      "carYear": 1982,
+      "previousOwner": true
+   },
+   {
+      "itemId": "i5wkwIY7_b4CEt-p7QecD",
+      "carMake": "Mini",
+      "carModel": "Fiesta",
+      "carYear": 2022,
+      "previousOwner": false
+   },
+   {
+      "itemId": "4dIWLSZ8tj1EeXZIMAAQV",
+      "carMake": "Jeep",
+      "carModel": "CTS",
+      "carYear": 2006,
+      "previousOwner": false
+   },
+   {
+      "itemId": "bu5xnc8zO7JaW_62t1KyN",
+      "carMake": "Ford",
+      "carModel": "Volt",
+      "carYear": 2017,
+      "previousOwner": false
+   },
+   {
+      "itemId": "9hzykVkSlY4ko-iDCKtcr",
+      "carMake": "Jeep",
+      "carModel": "Spyder",
+      "carYear": 1998,
+      "previousOwner": false
+   },
+   {
+      "itemId": "ioLVFxllfpn2Nm2dTIH0_",
+      "carMake": "Volkswagen",
+      "carModel": "Sentra",
+      "carYear": 1991,
+      "previousOwner": true
+   },
+   {
+      "itemId": "USzzblVQSf5FEnW3ReFzp",
+      "carMake": "Polestar",
+      "carModel": "Escalade",
+      "carYear": 1983,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Ee6L0e4nlq5T63qdjEHhH",
+      "carMake": "Smart",
+      "carModel": "Sentra",
+      "carYear": 2023,
+      "previousOwner": true
+   },
+   {
+      "itemId": "u94QIFUFdX56jIr6-yzxe",
+      "carMake": "Bentley",
+      "carModel": "Golf",
+      "carYear": 2007,
+      "previousOwner": false
+   },
+   {
+      "itemId": "HyoJVNex4qTOhhmihacqO",
+      "carMake": "Nissan",
+      "carModel": "F-150",
+      "carYear": 2014,
+      "previousOwner": true
+   },
+   {
+      "itemId": "SzCn1elJz9wuW0QbXg12h",
+      "carMake": "Cadillac",
+      "carModel": "Explorer",
+      "carYear": 1989,
+      "previousOwner": false
+   },
+   {
+      "itemId": "89DNOMJZkUDbHqChMKFvs",
+      "carMake": "Polestar",
+      "carModel": "Colorado",
+      "carYear": 2000,
+      "previousOwner": false
+   },
+   {
+      "itemId": "zlrHvL4dPuGOM3Q4bTECM",
+      "carMake": "Toyota",
+      "carModel": "Model X",
+      "carYear": 1978,
+      "previousOwner": true
+   },
+   {
+      "itemId": "1XsLV-590y7T0sHPQE8v6",
+      "carMake": "Rolls Royce",
+      "carModel": "Model S",
+      "carYear": 1988,
+      "previousOwner": true
+   },
+   {
+      "itemId": "-1fYuL_Pq-_DfoWpM1Kin",
+      "carMake": "Nissan",
+      "carModel": "Wrangler",
+      "carYear": 2000,
+      "previousOwner": false
+   },
+   {
+      "itemId": "ayfAL0eCTcB1cpc0K6wVm",
+      "carMake": "Kia",
+      "carModel": "2",
+      "carYear": 1981,
+      "previousOwner": false
+   },
+   {
+      "itemId": "EPxhisEHwZ2lryKNiQPXl",
+      "carMake": "Hyundai",
+      "carModel": "Grand Cherokee",
+      "carYear": 2022,
+      "previousOwner": false
+   },
+   {
+      "itemId": "d1m6J21j97VCXX5GbMNyq",
+      "carMake": "Volkswagen",
+      "carModel": "2",
+      "carYear": 2017,
+      "previousOwner": false
+   },
+   {
+      "itemId": "6gfNTy45mbHYf50WwfV7w",
+      "carMake": "Mercedes Benz",
+      "carModel": "Mercielago",
+      "carYear": 2013,
+      "previousOwner": false
+   },
+   {
+      "itemId": "_04RcMXlB72JefKmQjbTU",
+      "carMake": "Rolls Royce",
+      "carModel": "Impala",
+      "carYear": 1974,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Xk2eJeXBoUQyJmaJgWhNW",
+      "carMake": "Aston Martin",
+      "carModel": "Element",
+      "carYear": 1999,
+      "previousOwner": false
+   },
+   {
+      "itemId": "OSQTZOn9cClpkT3VE55Ip",
+      "carMake": "Audi",
+      "carModel": "Accord",
+      "carYear": 2012,
+      "previousOwner": true
+   },
+   {
+      "itemId": "6oZAnqxbuOjktQFsYVEPK",
+      "carMake": "Bugatti",
+      "carModel": "Accord",
+      "carYear": 1997,
+      "previousOwner": false
+   },
+   {
+      "itemId": "LpecIxOt7K0iNWZLhPbJt",
+      "carMake": "Ford",
+      "carModel": "Spyder",
+      "carYear": 2017,
+      "previousOwner": true
+   },
+   {
+      "itemId": "cgT-gw5Iv2iJ6VhI_jujZ",
+      "carMake": "Audi",
+      "carModel": "Jetta",
+      "carYear": 2021,
+      "previousOwner": true
+   },
+   {
+      "itemId": "oKPmkHLOlopDo2NUEyoX9",
+      "carMake": "Volvo",
+      "carModel": "XTS",
+      "carYear": 1999,
+      "previousOwner": true
+   },
+   {
+      "itemId": "DuUMrdiE4Y5Xe1rChBFFB",
+      "carMake": "Hyundai",
+      "carModel": "XC90",
+      "carYear": 1983,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Ov-OoHhcqzF05h-IGnAZu",
+      "carMake": "Porsche",
+      "carModel": "Prius",
+      "carYear": 1978,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Etvby2lxRRS6fXM1_iusD",
+      "carMake": "Toyota",
+      "carModel": "CX-9",
+      "carYear": 2001,
+      "previousOwner": true
+   },
+   {
+      "itemId": "-4XKnYc56ImRFTQr0wGzi",
+      "carMake": "Mini",
+      "carModel": "A8",
+      "carYear": 2022,
+      "previousOwner": true
+   },
+   {
+      "itemId": "EhWZVNsIXfzDs3iAtOPHw",
+      "carMake": "Volkswagen",
+      "carModel": "Colorado",
+      "carYear": 2006,
+      "previousOwner": true
+   },
+   {
+      "itemId": "q_w1Srg-8ANya_2B7e0sm",
+      "carMake": "Bentley",
+      "carModel": "Element",
+      "carYear": 1981,
+      "previousOwner": true
+   },
+   {
+      "itemId": "7GV-dQMlpZI2sVxmS6FTT",
+      "carMake": "Volvo",
+      "carModel": "Sentra",
+      "carYear": 1999,
+      "previousOwner": true
+   },
+   {
+      "itemId": "j7E3kHz-wT33AebZvN3hy",
+      "carMake": "Kia",
+      "carModel": "CTS",
+      "carYear": 2013,
+      "previousOwner": true
+   },
+   {
+      "itemId": "AjQWMDko9fXKSuxSNRiRm",
+      "carMake": "Ferrari",
+      "carModel": "Alpine",
+      "carYear": 1977,
+      "previousOwner": false
+   },
+   {
+      "itemId": "Yw--qU6_Kw4MmXKOxIP9c",
+      "carMake": "Polestar",
+      "carModel": "Fortwo",
+      "carYear": 2015,
+      "previousOwner": false
+   },
+   {
+      "itemId": "O-CfOzVgDAWTK24b6xXtx",
+      "carMake": "Bugatti",
+      "carModel": "Silverado",
+      "carYear": 1992,
+      "previousOwner": true
+   },
+   {
+      "itemId": "vrRhJdeVGHRoEDTzYfPgA",
+      "carMake": "Maserati",
+      "carModel": "Focus",
+      "carYear": 1996,
+      "previousOwner": false
+   },
+   {
+      "itemId": "GlBedhgH0ODQVHNO8_HRI",
+      "carMake": "Honda",
+      "carModel": "Model S",
+      "carYear": 2016,
+      "previousOwner": false
+   },
+   {
+      "itemId": "nfDqsncn84_MBoTWg_WOG",
+      "carMake": "Audi",
+      "carModel": "Malibu",
+      "carYear": 2013,
+      "previousOwner": false
+   },
+   {
+      "itemId": "O180M7dpk--fUXhpoa3v_",
+      "carMake": "Lamborghini",
+      "carModel": "Mercielago",
+      "carYear": 1995,
+      "previousOwner": false
+   },
+   {
+      "itemId": "iqCbavF_CpYhWvm5TMYGU",
+      "carMake": "Toyota",
+      "carModel": "Camry",
+      "carYear": 2023,
+      "previousOwner": false
+   },
+   {
+      "itemId": "bAQCVcR5WgwGfrAgyvx5r",
+      "carMake": "Mazda",
+      "carModel": "2",
+      "carYear": 2000,
+      "previousOwner": true
+   },
+   {
+      "itemId": "6MN8mskXCrA7Uk-RJ-p9m",
+      "carMake": "Bugatti",
+      "carModel": "Camaro",
+      "carYear": 1971,
+      "previousOwner": true
+   },
+   {
+      "itemId": "daqRub9LOF_1FGpeWljzP",
+      "carMake": "Jaguar",
+      "carModel": "Mercielago",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "f3mQSPHG0cnRlUFgPsy00",
+      "carMake": "Dodge",
+      "carModel": "Alpine",
+      "carYear": 2018,
+      "previousOwner": false
+   },
+   {
+      "itemId": "TLejA4avnl2SWOuBa3ZXR",
+      "carMake": "Smart",
+      "carModel": "Sentra",
+      "carYear": 2002,
+      "previousOwner": false
+   },
+   {
+      "itemId": "nc0phohuNJoKjWvUDHZHW",
+      "carMake": "Chevrolet",
+      "carModel": "Countach",
+      "carYear": 2009,
+      "previousOwner": true
+   },
+   {
+      "itemId": "j6rz-NR-LY8qoXgGxbSRo",
+      "carMake": "Tesla",
+      "carModel": "Element",
+      "carYear": 1989,
+      "previousOwner": true
+   },
+   {
+      "itemId": "S9VKSeHbt8DCYhdkxL42T",
+      "carMake": "Bentley",
+      "carModel": "CX-9",
+      "carYear": 1972,
+      "previousOwner": false
+   },
+   {
+      "itemId": "MSadTj8Hc7Yo9KzAUcFc1",
+      "carMake": "Chrysler",
+      "carModel": "Colorado",
+      "carYear": 2018,
+      "previousOwner": false
+   },
+   {
+      "itemId": "YUXB3ZSlCRARxF_LSegEe",
+      "carMake": "BMW",
+      "carModel": "Mustang",
+      "carYear": 2000,
+      "previousOwner": true
+   },
+   {
+      "itemId": "SLIPQxRZ1ypba8W_Ua2tj",
+      "carMake": "Chrysler",
+      "carModel": "El Camino",
+      "carYear": 1978,
+      "previousOwner": false
+   },
+   {
+      "itemId": "s0AbdEGzqQFhF4yRibMWq",
+      "carMake": "Polestar",
+      "carModel": "PT Cruiser",
+      "carYear": 2007,
+      "previousOwner": false
+   },
+   {
+      "itemId": "SSvD9HOqJHy3_jfQ_5APK",
+      "carMake": "Smart",
+      "carModel": "Accord",
+      "carYear": 1971,
+      "previousOwner": true
+   },
+   {
+      "itemId": "FfiUgyTUjw9ErpTHdgA7F",
+      "carMake": "Dodge",
+      "carModel": "Fiesta",
+      "carYear": 1990,
+      "previousOwner": false
+   },
+   {
+      "itemId": "EoJxdf35wnGzM96kfvC6n",
+      "carMake": "Honda",
+      "carModel": "Grand Caravan",
+      "carYear": 1981,
+      "previousOwner": true
+   },
+   {
+      "itemId": "Z0_AVQWjYjaSjyxsf42b-",
+      "carMake": "Chrysler",
+      "carModel": "Colorado",
+      "carYear": 2019,
+      "previousOwner": true
+   },
+   {
+      "itemId": "_ytcrFC1mejfLNfrZe1VR",
+      "carMake": "Bentley",
+      "carModel": "Camry",
+      "carYear": 2005,
+      "previousOwner": true
+   }
+]
